@@ -96,9 +96,9 @@
     "proxy": "http://190.103.177.131:80"
   },
   {
-    "country": "Ireland",
-    "city": "Dublin",
-    "isp": "OVH SAS",
-    "proxy": "http://51.254.78.223:80"
+    "country": "Japan",
+    "city": "Kawasaki",
+    "isp": "Kddi Corporation",
+    "proxy": "http://111.238.48.221:80"
   }
 ]
