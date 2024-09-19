@@ -66,12 +66,6 @@
     "proxy": "http://51.89.14.70:80"
   },
   {
-    "country": "Hong Kong",
-    "city": "Kwai Chung",
-    "isp": "Hong Kong Broadband Network Ltd",
-    "proxy": "http://14.199.30.127:80"
-  },
-  {
     "country": "Germany",
     "city": "Frankfurt Am Main",
     "isp": "Hetzner Online AG",
