@@ -36,12 +36,6 @@
     "proxy": "http://77.83.246.25:80"
   },
   {
-    "country": "Hong Kong",
-    "city": "Central",
-    "isp": "Vantiva USA Shared Services Inc.",
-    "proxy": "http://157.254.53.50:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
@@ -60,12 +54,6 @@
     "proxy": "http://80.249.112.162:80"
   },
   {
-    "country": "United States",
-    "city": "Buffalo",
-    "isp": "ColoUp",
-    "proxy": "http://162.223.90.130:80"
-  },
-  {
     "country": "Germany",
     "city": "Berlin",
     "isp": "IONOS SE",
@@ -82,5 +70,23 @@
     "city": "Kawasaki",
     "isp": "Kddi Corporation",
     "proxy": "http://111.238.48.221:80"
+  },
+  {
+    "country": "Hong Kong",
+    "city": "Central",
+    "isp": "Vantiva USA Shared Services Inc.",
+    "proxy": "http://157.254.53.50:80"
+  },
+  {
+    "country": "United States",
+    "city": "Buffalo",
+    "isp": "ColoUp",
+    "proxy": "http://162.223.90.130:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
   }
 ]
