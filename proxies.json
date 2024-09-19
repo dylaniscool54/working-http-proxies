@@ -92,12 +92,6 @@
   {
     "country": "Singapore",
     "city": "Singapore",
-    "isp": "Akari Networks Limited",
-    "proxy": "http://103.190.179.27:80"
-  },
-  {
-    "country": "Singapore",
-    "city": "Singapore",
     "isp": "Akamai Technologies, Inc.",
     "proxy": "http://143.42.66.91:80"
   },
@@ -114,27 +108,39 @@
     "proxy": "http://63.143.57.119:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.203.28.43:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.14.70:80"
   },
   {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://165.232.129.150:80"
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "netcup GmbH",
+    "proxy": "http://93.177.67.178:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://5.75.130.49:80"
   },
   {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
-    "proxy": "http://51.89.134.65:80"
+    "proxy": "http://51.89.134.68:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Oracle Corporation",
+    "proxy": "http://158.178.246.35:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Akari Networks Limited",
+    "proxy": "http://103.190.179.27:80"
   }
 ]
