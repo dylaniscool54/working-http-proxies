@@ -60,12 +60,6 @@
     "proxy": "http://49.245.96.145:80"
   },
   {
-    "country": "United States",
-    "city": "Buffalo",
-    "isp": "ColoUp",
-    "proxy": "http://162.223.90.130:80"
-  },
-  {
     "country": "Germany",
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
@@ -84,15 +78,21 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "Hong Kong",
-    "city": "Kwai Chung",
-    "isp": "Hong Kong Broadband Network Ltd",
-    "proxy": "http://14.199.30.127:80"
-  },
-  {
     "country": "France",
     "city": "Paris",
     "isp": "Oracle Corporation",
     "proxy": "http://141.145.214.176:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
+  },
+  {
+    "country": "United States",
+    "city": "Buffalo",
+    "isp": "ColoUp",
+    "proxy": "http://162.223.90.130:80"
   }
 ]
