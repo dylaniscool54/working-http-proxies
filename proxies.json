@@ -130,5 +130,23 @@
     "city": "Kawasaki",
     "isp": "Kddi Corporation",
     "proxy": "http://111.238.48.221:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Magura District",
+    "isp": "Jessore IT",
+    "proxy": "http://103.159.188.250:80"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "isp": "PT IndoInternet",
+    "proxy": "http://117.54.114.33:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Gopālganj",
+    "isp": "G Net Service",
+    "proxy": "http://103.253.103.50:80"
   }
 ]
