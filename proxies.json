@@ -96,18 +96,6 @@
     "proxy": "http://103.253.103.50:80"
   },
   {
-    "country": "Nepal",
-    "city": "Kathmandu",
-    "isp": "Kaopu Cloud HK Limited",
-    "proxy": "http://38.54.71.67:80"
-  },
-  {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://5.75.196.109:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
@@ -120,9 +108,9 @@
     "proxy": "http://154.39.83.100:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "netcup GmbH",
-    "proxy": "http://93.177.67.178:80"
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://165.232.129.150:80"
   }
 ]
