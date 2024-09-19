@@ -48,12 +48,6 @@
     "proxy": "http://51.79.170.92:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.255.67:80"
-  },
-  {
     "country": "Bangladesh",
     "city": "Gopālganj",
     "isp": "G Net Service",
@@ -108,12 +102,6 @@
     "proxy": "http://51.89.14.70:80"
   },
   {
-    "country": "Bangladesh",
-    "city": "Dhaka",
-    "isp": "Mahfujul Haque t/a Expert Online",
-    "proxy": "http://103.86.109.38:80"
-  },
-  {
     "country": "Singapore",
     "city": "Singapore",
     "isp": "M1 LIMITED",
@@ -142,5 +130,11 @@
     "city": "Córdoba",
     "isp": "Sondatech S.A.S.",
     "proxy": "http://190.103.177.131:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "isp": "Mahfujul Haque t/a Expert Online",
+    "proxy": "http://103.86.109.38:80"
   }
 ]
