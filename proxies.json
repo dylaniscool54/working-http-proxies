@@ -112,5 +112,11 @@
     "city": "Tehran",
     "isp": "Parsian Technology Innovative Solution Co., PJS.",
     "proxy": "http://80.249.112.162:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Magura District",
+    "isp": "Jessore IT",
+    "proxy": "http://103.159.188.250:80"
   }
 ]
