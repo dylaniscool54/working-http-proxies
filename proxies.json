@@ -60,12 +60,6 @@
     "proxy": "http://162.223.90.130:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.255.67:80"
-  },
-  {
     "country": "United States",
     "city": "Los Angeles",
     "isp": "Cogent Communications",
@@ -118,5 +112,11 @@
     "city": "Kawasaki",
     "isp": "Kddi Corporation",
     "proxy": "http://111.238.48.221:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.255.67:80"
   }
 ]
