@@ -60,12 +60,6 @@
     "proxy": "http://80.249.112.162:80"
   },
   {
-    "country": "United States",
-    "city": "Buffalo",
-    "isp": "ColoUp",
-    "proxy": "http://162.223.90.130:80"
-  },
-  {
     "country": "Singapore",
     "city": "Singapore",
     "isp": "M1 LIMITED",
@@ -120,12 +114,6 @@
     "proxy": "http://93.177.67.178:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://5.75.130.49:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
@@ -138,9 +126,9 @@
     "proxy": "http://158.178.246.35:80"
   },
   {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Akari Networks Limited",
-    "proxy": "http://103.190.179.27:80"
+    "country": "Argentina",
+    "city": "Córdoba",
+    "isp": "Sondatech S.A.S.",
+    "proxy": "http://190.103.177.131:80"
   }
 ]
