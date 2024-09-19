@@ -109,12 +109,6 @@
   },
   {
     "country": "United States",
-    "city": "San Jose",
-    "isp": "Cnservers LLC",
-    "proxy": "http://154.208.10.126:80"
-  },
-  {
-    "country": "United States",
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
     "proxy": "http://144.126.216.57:80"
@@ -126,15 +120,9 @@
     "proxy": "http://116.203.28.43:80"
   },
   {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://165.232.129.150:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
+    "proxy": "http://51.89.134.68:80"
   }
 ]
