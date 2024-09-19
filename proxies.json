@@ -90,12 +90,6 @@
     "proxy": "http://165.232.129.150:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.134.68:80"
-  },
-  {
     "country": "Malaysia",
     "city": "Kota Kinabalu",
     "isp": "TM TECHNOLOGY SERVICES SDN BHD",
