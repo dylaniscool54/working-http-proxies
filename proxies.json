@@ -78,12 +78,6 @@
     "proxy": "http://51.89.255.67:80"
   },
   {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Akamai Technologies, Inc.",
-    "proxy": "http://143.42.66.91:80"
-  },
-  {
     "country": "Germany",
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
