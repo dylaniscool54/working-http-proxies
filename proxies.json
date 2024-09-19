@@ -72,12 +72,6 @@
     "proxy": "http://190.103.177.131:80"
   },
   {
-    "country": "Hong Kong",
-    "city": "Central",
-    "isp": "Vantiva USA Shared Services Inc.",
-    "proxy": "http://157.254.53.50:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
@@ -88,12 +82,6 @@
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
     "proxy": "http://165.232.129.150:80"
-  },
-  {
-    "country": "Bangladesh",
-    "city": "Dhaka",
-    "isp": "Mahfujul Haque t/a Expert Online",
-    "proxy": "http://103.86.109.38:80"
   },
   {
     "country": "United States",
@@ -118,5 +106,23 @@
     "city": "Berlin",
     "isp": "IONOS SE",
     "proxy": "http://85.215.64.49:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Frankfurt am Main",
+    "isp": "Oracle Corporation",
+    "proxy": "http://193.122.61.167:80"
+  },
+  {
+    "country": "Hong Kong",
+    "city": "Kwai Chung",
+    "isp": "Hong Kong Broadband Network Ltd",
+    "proxy": "http://14.199.30.127:80"
   }
 ]
