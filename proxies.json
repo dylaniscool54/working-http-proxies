@@ -60,18 +60,6 @@
     "proxy": "http://82.102.10.253:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
-  },
-  {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://5.75.196.109:80"
-  },
-  {
     "country": "France",
     "city": "Paris",
     "isp": "Oracle Corporation",
@@ -84,22 +72,10 @@
     "proxy": "http://65.108.207.6:80"
   },
   {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Akari Networks Limited",
-    "proxy": "http://103.190.179.27:80"
-  },
-  {
     "country": "Finland",
     "city": "Helsinki",
     "isp": "Aeza International LTD",
     "proxy": "http://77.91.70.98:80"
-  },
-  {
-    "country": "Bangladesh",
-    "city": "Dhaka",
-    "isp": "Mahfujul Haque t/a Expert Online",
-    "proxy": "http://103.86.109.38:80"
   },
   {
     "country": "Germany",
@@ -122,7 +98,7 @@
   {
     "country": "Germany",
     "city": "Nuremberg",
-    "isp": "netcup GmbH",
-    "proxy": "http://93.177.67.178:80"
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://5.75.196.109:80"
   }
 ]
