@@ -72,22 +72,10 @@
     "proxy": "http://82.102.10.253:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "netcup GmbH",
-    "proxy": "http://93.177.67.178:80"
-  },
-  {
     "country": "Singapore",
     "city": "Singapore",
     "isp": "Akamai Technologies, Inc.",
     "proxy": "http://143.42.66.91:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.134.65:80"
   },
   {
     "country": "United Arab Emirates",
@@ -96,22 +84,10 @@
     "proxy": "http://87.248.129.26:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
-  },
-  {
     "country": "United States",
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
     "proxy": "http://144.126.216.57:80"
-  },
-  {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.203.28.43:80"
   },
   {
     "country": "Bangladesh",
@@ -132,9 +108,21 @@
     "proxy": "http://154.64.226.138:80"
   },
   {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
+  },
+  {
     "country": "United States",
     "city": "Los Angeles",
     "isp": "Cogent Communications",
     "proxy": "http://154.39.83.100:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.134.65:80"
   }
 ]
