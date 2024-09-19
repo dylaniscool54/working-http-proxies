@@ -42,12 +42,6 @@
     "proxy": "http://152.228.154.20:80"
   },
   {
-    "country": "United States",
-    "city": "Buffalo",
-    "isp": "ColoUp",
-    "proxy": "http://162.223.90.130:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
@@ -78,12 +72,6 @@
     "proxy": "http://49.245.96.145:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
-  },
-  {
     "country": "Germany",
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
@@ -96,18 +84,6 @@
     "proxy": "http://87.248.129.26:80"
   },
   {
-    "country": "Argentina",
-    "city": "Córdoba",
-    "isp": "Sondatech S.A.S.",
-    "proxy": "http://190.103.177.131:80"
-  },
-  {
-    "country": "United States",
-    "city": "Los Angeles",
-    "isp": "Cogent Communications",
-    "proxy": "http://154.64.226.138:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "Gosport",
     "isp": "Redstation Limited",
@@ -118,5 +94,11 @@
     "city": "Paris",
     "isp": "Oracle Corporation",
     "proxy": "http://141.145.214.176:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
   }
 ]
