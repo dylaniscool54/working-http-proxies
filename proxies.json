@@ -84,18 +84,6 @@
     "proxy": "http://51.89.255.67:80"
   },
   {
-    "country": "Nepal",
-    "city": "Kathmandu",
-    "isp": "Kaopu Cloud HK Limited",
-    "proxy": "http://38.54.71.67:80"
-  },
-  {
-    "country": "Germany",
-    "city": "Berlin",
-    "isp": "IONOS SE",
-    "proxy": "http://85.215.64.49:80"
-  },
-  {
     "country": "Singapore",
     "city": "Singapore",
     "isp": "M1 LIMITED",
@@ -108,9 +96,15 @@
     "proxy": "http://165.232.129.150:80"
   },
   {
-    "country": "Indonesia",
-    "city": "Jakarta",
-    "isp": "PT IndoInternet",
-    "proxy": "http://117.54.114.33:80"
+    "country": "Germany",
+    "city": "Berlin",
+    "isp": "IONOS SE",
+    "proxy": "http://85.215.64.49:80"
+  },
+  {
+    "country": "Japan",
+    "city": "Kawasaki",
+    "isp": "Kddi Corporation",
+    "proxy": "http://111.238.48.221:80"
   }
 ]
