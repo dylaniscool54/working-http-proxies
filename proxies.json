@@ -90,12 +90,6 @@
     "proxy": "http://51.89.14.70:80"
   },
   {
-    "country": "Hong Kong",
-    "city": "Kwai Chung",
-    "isp": "Hong Kong Broadband Network Ltd",
-    "proxy": "http://14.199.30.127:80"
-  },
-  {
     "country": "Singapore",
     "city": "Singapore",
     "isp": "M1 LIMITED",
@@ -130,5 +124,23 @@
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://116.203.28.43:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "isp": "Mahfujul Haque t/a Expert Online",
+    "proxy": "http://103.86.109.38:80"
+  },
+  {
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://165.232.129.150:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Akari Networks Limited",
+    "proxy": "http://103.190.179.27:80"
   }
 ]
