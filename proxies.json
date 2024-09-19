@@ -96,12 +96,6 @@
     "proxy": "http://111.238.48.221:80"
   },
   {
-    "country": "Germany",
-    "city": "Berlin",
-    "isp": "IONOS SE",
-    "proxy": "http://85.215.64.49:80"
-  },
-  {
     "country": "Argentina",
     "city": "Córdoba",
     "isp": "Sondatech S.A.S.",
@@ -111,12 +105,30 @@
     "country": "United States",
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
-    "proxy": "http://144.126.216.57:80"
+    "proxy": "http://165.232.129.150:80"
+  },
+  {
+    "country": "Malaysia",
+    "city": "Kota Kinabalu",
+    "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+    "proxy": "http://175.139.233.78:80"
   },
   {
     "country": "Bangladesh",
-    "city": "Dhaka",
-    "isp": "Mahfujul Haque t/a Expert Online",
-    "proxy": "http://103.86.109.38:80"
+    "city": "Magura District",
+    "isp": "Jessore IT",
+    "proxy": "http://103.159.188.250:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Berlin",
+    "isp": "IONOS SE",
+    "proxy": "http://85.215.64.49:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Akari Networks Limited",
+    "proxy": "http://103.190.179.27:80"
   }
 ]
