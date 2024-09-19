@@ -97,21 +97,9 @@
   },
   {
     "country": "United States",
-    "city": "Los Angeles",
-    "isp": "Cogent Communications",
-    "proxy": "http://154.39.83.100:80"
-  },
-  {
-    "country": "United States",
     "city": "San Jose",
     "isp": "Cnservers LLC",
     "proxy": "http://154.208.10.126:80"
-  },
-  {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "netcup GmbH",
-    "proxy": "http://93.177.67.178:80"
   },
   {
     "country": "United States",
@@ -120,9 +108,15 @@
     "proxy": "http://165.232.129.150:80"
   },
   {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "netcup GmbH",
+    "proxy": "http://93.177.67.178:80"
+  },
+  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
-    "proxy": "http://51.89.134.65:80"
+    "proxy": "http://51.89.14.70:80"
   }
 ]
