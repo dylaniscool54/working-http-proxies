@@ -90,12 +90,6 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "Australia",
-    "city": "Sydney",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://170.64.181.146:80"
-  },
-  {
     "country": "Japan",
     "city": "Kawasaki",
     "isp": "Kddi Corporation",
@@ -108,9 +102,9 @@
     "proxy": "http://103.86.109.38:80"
   },
   {
-    "country": "Germany",
-    "city": "Frankfurt am Main",
-    "isp": "Oracle Corporation",
-    "proxy": "http://193.122.61.167:80"
+    "country": "United States",
+    "city": "Buffalo",
+    "isp": "ColoUp",
+    "proxy": "http://162.223.90.130:80"
   }
 ]
