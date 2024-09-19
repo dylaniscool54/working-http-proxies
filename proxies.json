@@ -60,12 +60,6 @@
     "proxy": "http://87.248.129.26:80"
   },
   {
-    "country": "Germany",
-    "city": "Berlin",
-    "isp": "IONOS SE",
-    "proxy": "http://85.215.64.49:80"
-  },
-  {
     "country": "United States",
     "city": "Buffalo",
     "isp": "ColoUp",
@@ -84,9 +78,33 @@
     "proxy": "http://111.238.48.221:80"
   },
   {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://165.232.129.150:80"
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.134.69:80"
+  },
+  {
+    "country": "Poland",
+    "city": "Warsaw",
+    "isp": "Global Connectivity Solutions LLP",
+    "proxy": "http://77.83.246.25:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.203.28.43:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.255.67:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Berlin",
+    "isp": "IONOS SE",
+    "proxy": "http://85.215.64.49:80"
   }
 ]
