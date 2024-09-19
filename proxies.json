@@ -78,12 +78,6 @@
     "proxy": "http://162.223.90.130:80"
   },
   {
-    "country": "Germany",
-    "city": "Berlin",
-    "isp": "IONOS SE",
-    "proxy": "http://85.215.64.49:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "Gosport",
     "isp": "Redstation Limited",
@@ -120,9 +114,9 @@
     "proxy": "http://157.254.53.50:80"
   },
   {
-    "country": "Hong Kong",
-    "city": "Kwai Chung",
-    "isp": "Hong Kong Broadband Network Ltd",
-    "proxy": "http://14.199.30.127:80"
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "M1 LIMITED",
+    "proxy": "http://49.245.96.145:80"
   }
 ]
