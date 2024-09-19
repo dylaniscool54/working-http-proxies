@@ -55,12 +55,6 @@
   },
   {
     "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.203.28.43:80"
-  },
-  {
-    "country": "Germany",
     "city": "Frankfurt Am Main",
     "isp": "Hetzner Online AG",
     "proxy": "http://91.107.252.136:80"
