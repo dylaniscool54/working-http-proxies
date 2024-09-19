@@ -48,12 +48,6 @@
     "proxy": "http://51.79.170.92:80"
   },
   {
-    "country": "Hong Kong",
-    "city": "Central",
-    "isp": "Vantiva USA Shared Services Inc.",
-    "proxy": "http://157.254.53.50:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
@@ -130,18 +124,6 @@
     "city": "Tehran",
     "isp": "Parsian Technology Innovative Solution Co., PJS.",
     "proxy": "http://80.249.112.162:80"
-  },
-  {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Oracle Corporation",
-    "proxy": "http://158.178.246.35:80"
-  },
-  {
-    "country": "Bangladesh",
-    "city": "Dhaka",
-    "isp": "Mahfujul Haque t/a Expert Online",
-    "proxy": "http://103.86.109.38:80"
   },
   {
     "country": "United States",
