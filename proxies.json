@@ -108,6 +108,12 @@
     "proxy": "http://143.42.66.91:80"
   },
   {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.203.28.43:80"
+  },
+  {
     "country": "United States",
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
