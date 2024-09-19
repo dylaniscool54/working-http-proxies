@@ -102,15 +102,9 @@
     "proxy": "http://82.102.10.253:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.203.28.43:80"
-  },
-  {
-    "country": "United Arab Emirates",
-    "city": "Dubai",
-    "isp": "ITEL",
-    "proxy": "http://87.248.129.26:80"
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "M1 LIMITED",
+    "proxy": "http://49.245.96.145:80"
   }
 ]
