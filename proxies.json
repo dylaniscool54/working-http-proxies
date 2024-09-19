@@ -85,12 +85,6 @@
   },
   {
     "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://165.232.129.150:80"
-  },
-  {
-    "country": "United States",
     "city": "San Jose",
     "isp": "Cnservers LLC",
     "proxy": "http://154.208.10.126:80"
@@ -102,15 +96,15 @@
     "proxy": "http://51.89.134.69:80"
   },
   {
-    "country": "Argentina",
-    "city": "Córdoba",
-    "isp": "Sondatech S.A.S.",
-    "proxy": "http://190.103.177.131:80"
-  },
-  {
     "country": "United Arab Emirates",
     "city": "Dubai",
     "isp": "ITEL",
     "proxy": "http://87.248.129.26:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Berlin",
+    "isp": "IONOS SE",
+    "proxy": "http://85.215.64.49:80"
   }
 ]
