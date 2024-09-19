@@ -112,5 +112,23 @@
     "city": "Dhaka",
     "isp": "Mahfujul Haque t/a Expert Online",
     "proxy": "http://103.86.109.38:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Oracle Corporation",
+    "proxy": "http://158.178.246.35:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.203.28.43:80"
+  },
+  {
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "isp": "ITEL",
+    "proxy": "http://87.248.129.26:80"
   }
 ]
