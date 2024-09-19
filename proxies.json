@@ -132,9 +132,15 @@
     "proxy": "http://51.89.14.70:80"
   },
   {
-    "country": "Indonesia",
-    "city": "Jakarta",
-    "isp": "PT IndoInternet",
-    "proxy": "http://117.54.114.33:80"
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://165.232.129.150:80"
+  },
+  {
+    "country": "United States",
+    "city": "Dallas",
+    "isp": "Limestone Networks, Inc.",
+    "proxy": "http://63.143.57.119:80"
   }
 ]
