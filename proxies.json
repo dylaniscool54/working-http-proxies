@@ -84,12 +84,6 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://165.232.129.150:80"
-  },
-  {
     "country": "Poland",
     "city": "Warsaw",
     "isp": "Global Connectivity Solutions LLP",
@@ -118,6 +112,12 @@
     "city": "Magura District",
     "isp": "Jessore IT",
     "proxy": "http://103.159.188.250:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
   },
   {
     "country": "Finland",
