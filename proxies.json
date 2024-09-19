@@ -78,18 +78,6 @@
     "proxy": "http://49.245.96.145:80"
   },
   {
-    "country": "Finland",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://65.108.207.6:80"
-  },
-  {
-    "country": "Ireland",
-    "city": "Dublin",
-    "isp": "OVH SAS",
-    "proxy": "http://51.254.78.223:80"
-  },
-  {
     "country": "United States",
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
@@ -100,5 +88,29 @@
     "city": "Dubai",
     "isp": "ITEL",
     "proxy": "http://87.248.129.26:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Gosport",
+    "isp": "Redstation Limited",
+    "proxy": "http://82.102.10.253:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Akari Networks Limited",
+    "proxy": "http://103.190.179.27:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "isp": "Mahfujul Haque t/a Expert Online",
+    "proxy": "http://103.86.109.38:80"
+  },
+  {
+    "country": "Argentina",
+    "city": "Córdoba",
+    "isp": "Sondatech S.A.S.",
+    "proxy": "http://190.103.177.131:80"
   }
 ]
