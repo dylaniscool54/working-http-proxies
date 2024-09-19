@@ -43,12 +43,6 @@
   },
   {
     "country": "United States",
-    "city": "Dallas",
-    "isp": "Limestone Networks, Inc.",
-    "proxy": "http://63.143.57.119:80"
-  },
-  {
-    "country": "United States",
     "city": "Buffalo",
     "isp": "ColoUp",
     "proxy": "http://162.223.90.130:80"
