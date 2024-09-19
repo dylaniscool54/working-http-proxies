@@ -66,12 +66,6 @@
     "proxy": "http://157.254.53.50:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
-  },
-  {
     "country": "Germany",
     "city": "Berlin",
     "isp": "IONOS SE",
@@ -96,12 +90,6 @@
     "proxy": "http://63.143.57.119:80"
   },
   {
-    "country": "France",
-    "city": "Gravelines",
-    "isp": "OVH SAS",
-    "proxy": "http://145.239.54.185:80"
-  },
-  {
     "country": "Singapore",
     "city": "Singapore",
     "isp": "M1 LIMITED",
@@ -114,28 +102,10 @@
     "proxy": "http://103.86.109.38:80"
   },
   {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Akari Networks Limited",
-    "proxy": "http://103.190.179.27:80"
-  },
-  {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://165.232.129.150:80"
-  },
-  {
     "country": "Germany",
     "city": "Falkenstein",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://116.202.19.18:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.134.68:80"
   },
   {
     "country": "United Kingdom",
@@ -144,9 +114,15 @@
     "proxy": "http://82.102.10.253:80"
   },
   {
+    "country": "Finland",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://65.108.207.6:80"
+  },
+  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
-    "proxy": "http://51.89.134.69:80"
+    "proxy": "http://51.89.14.70:80"
   }
 ]
