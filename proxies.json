@@ -112,5 +112,11 @@
     "city": "Singapore",
     "isp": "Akari Networks Limited",
     "proxy": "http://103.190.179.27:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Oracle Corporation",
+    "proxy": "http://158.178.246.35:80"
   }
 ]
