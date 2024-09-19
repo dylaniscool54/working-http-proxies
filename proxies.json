@@ -108,12 +108,6 @@
     "proxy": "http://154.208.10.126:80"
   },
   {
-    "country": "Indonesia",
-    "city": "Jakarta",
-    "isp": "PT IndoInternet",
-    "proxy": "http://117.54.114.102:80"
-  },
-  {
     "country": "United States",
     "city": "Buffalo",
     "isp": "ColoUp",
@@ -124,5 +118,17 @@
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.134.65:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Gosport",
+    "isp": "Redstation Limited",
+    "proxy": "http://82.102.10.253:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "M1 LIMITED",
+    "proxy": "http://49.245.96.145:80"
   }
 ]
