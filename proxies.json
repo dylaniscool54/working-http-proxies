@@ -54,12 +54,6 @@
     "proxy": "http://103.253.103.50:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.134.69:80"
-  },
-  {
     "country": "Japan",
     "city": "Kawasaki",
     "isp": "Kddi Corporation",
@@ -126,21 +120,21 @@
     "proxy": "http://103.159.188.250:80"
   },
   {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.203.28.43:80"
+  },
+  {
     "country": "United States",
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
     "proxy": "http://144.126.216.57:80"
   },
   {
-    "country": "Malaysia",
-    "city": "Kota Kinabalu",
-    "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-    "proxy": "http://175.139.233.76:80"
-  },
-  {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.203.28.43:80"
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "isp": "Mahfujul Haque t/a Expert Online",
+    "proxy": "http://103.86.109.38:80"
   }
 ]
