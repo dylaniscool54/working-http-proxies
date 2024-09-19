@@ -84,12 +84,6 @@
     "proxy": "http://51.79.170.92:80"
   },
   {
-    "country": "Japan",
-    "city": "Kawasaki",
-    "isp": "Kddi Corporation",
-    "proxy": "http://111.238.48.221:80"
-  },
-  {
     "country": "United States",
     "city": "Buffalo",
     "isp": "ColoUp",
@@ -112,18 +106,6 @@
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://116.203.28.43:80"
-  },
-  {
-    "country": "Bangladesh",
-    "city": "Magura District",
-    "isp": "Jessore IT",
-    "proxy": "http://103.159.188.250:80"
-  },
-  {
-    "country": "Nepal",
-    "city": "Kathmandu",
-    "isp": "Kaopu Cloud HK Limited",
-    "proxy": "http://38.54.71.67:80"
   },
   {
     "country": "United Kingdom",
