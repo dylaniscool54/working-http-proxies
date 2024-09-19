@@ -130,5 +130,11 @@
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.255.67:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "M1 LIMITED",
+    "proxy": "http://49.245.96.145:80"
   }
 ]
