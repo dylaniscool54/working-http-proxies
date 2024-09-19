@@ -42,12 +42,6 @@
     "proxy": "http://77.83.246.25:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.255.67:80"
-  },
-  {
     "country": "United States",
     "city": "Dallas",
     "isp": "Limestone Networks, Inc.",
@@ -64,12 +58,6 @@
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.14.70:80"
-  },
-  {
-    "country": "United States",
-    "city": "San Jose",
-    "isp": "Cnservers LLC",
-    "proxy": "http://154.208.10.126:80"
   },
   {
     "country": "United States",
@@ -124,11 +112,5 @@
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
     "proxy": "http://144.126.216.57:80"
-  },
-  {
-    "country": "United States",
-    "city": "Cedar Knolls",
-    "isp": "Akamai Technologies, Inc.",
-    "proxy": "http://143.42.191.48:80"
   }
 ]
