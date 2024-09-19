@@ -54,12 +54,6 @@
     "proxy": "http://91.107.252.136:80"
   },
   {
-    "country": "Germany",
-    "city": "Berlin",
-    "isp": "IONOS SE",
-    "proxy": "http://85.215.64.49:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
@@ -76,12 +70,6 @@
     "city": "Ashburn",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://5.161.103.113:80"
-  },
-  {
-    "country": "Japan",
-    "city": "Kawasaki",
-    "isp": "Kddi Corporation",
-    "proxy": "http://111.238.48.221:80"
   },
   {
     "country": "United States",
