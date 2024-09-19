@@ -72,12 +72,6 @@
     "proxy": "http://87.248.129.26:80"
   },
   {
-    "country": "France",
-    "city": "Gravelines",
-    "isp": "OVH SAS",
-    "proxy": "http://145.239.54.185:80"
-  },
-  {
     "country": "Germany",
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
