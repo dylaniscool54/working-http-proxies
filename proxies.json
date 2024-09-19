@@ -88,5 +88,11 @@
     "city": "Dallas",
     "isp": "Limestone Networks, Inc.",
     "proxy": "http://63.143.57.119:80"
+  },
+  {
+    "country": "Japan",
+    "city": "Kawasaki",
+    "isp": "Kddi Corporation",
+    "proxy": "http://111.238.48.221:80"
   }
 ]
