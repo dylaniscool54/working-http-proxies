@@ -74,12 +74,6 @@
   {
     "country": "Singapore",
     "city": "Singapore",
-    "isp": "Oracle Corporation",
-    "proxy": "http://158.178.246.35:80"
-  },
-  {
-    "country": "Singapore",
-    "city": "Singapore",
     "isp": "OVH SAS",
     "proxy": "http://51.79.170.92:80"
   },
@@ -112,5 +106,23 @@
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.134.69:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Magura District",
+    "isp": "Jessore IT",
+    "proxy": "http://103.159.188.250:80"
+  },
+  {
+    "country": "Japan",
+    "city": "Kawasaki",
+    "isp": "Kddi Corporation",
+    "proxy": "http://111.238.48.221:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "isp": "Mahfujul Haque t/a Expert Online",
+    "proxy": "http://103.86.109.38:80"
   }
 ]
