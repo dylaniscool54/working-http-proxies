@@ -118,5 +118,23 @@
     "city": "Berlin",
     "isp": "IONOS SE",
     "proxy": "http://85.215.64.49:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "netcup GmbH",
+    "proxy": "http://93.177.67.178:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Akamai Technologies, Inc.",
+    "proxy": "http://143.42.66.91:80"
+  },
+  {
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://165.232.129.150:80"
   }
 ]
