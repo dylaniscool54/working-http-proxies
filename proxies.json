@@ -84,12 +84,6 @@
     "proxy": "http://162.223.90.130:80"
   },
   {
-    "country": "France",
-    "city": "Gravelines",
-    "isp": "OVH SAS",
-    "proxy": "http://145.239.54.185:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
@@ -112,18 +106,6 @@
     "city": "Central",
     "isp": "Vantiva USA Shared Services Inc.",
     "proxy": "http://157.254.53.50:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.134.68:80"
-  },
-  {
-    "country": "Ireland",
-    "city": "Dublin",
-    "isp": "OVH SAS",
-    "proxy": "http://51.254.78.223:80"
   },
   {
     "country": "Iran",
