@@ -106,5 +106,11 @@
     "city": "Kathmandu",
     "isp": "Kaopu Cloud HK Limited",
     "proxy": "http://38.54.71.67:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "isp": "Mahfujul Haque t/a Expert Online",
+    "proxy": "http://103.86.109.38:80"
   }
 ]
