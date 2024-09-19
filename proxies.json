@@ -126,12 +126,6 @@
     "proxy": "http://51.89.14.70:80"
   },
   {
-    "country": "Argentina",
-    "city": "Córdoba",
-    "isp": "Sondatech S.A.S.",
-    "proxy": "http://190.103.177.131:80"
-  },
-  {
     "country": "Singapore",
     "city": "Singapore",
     "isp": "Akari Networks Limited",
@@ -156,15 +150,21 @@
     "proxy": "http://154.39.83.100:80"
   },
   {
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "isp": "ITEL",
+    "proxy": "http://87.248.129.26:80"
+  },
+  {
     "country": "France",
     "city": "Gravelines",
     "isp": "OVH SAS",
     "proxy": "http://145.239.54.185:80"
   },
   {
-    "country": "United Arab Emirates",
-    "city": "Dubai",
-    "isp": "ITEL",
-    "proxy": "http://87.248.129.26:80"
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://165.232.129.150:80"
   }
 ]
