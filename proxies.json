@@ -66,28 +66,10 @@
     "proxy": "http://49.245.96.145:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.203.28.43:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.134.69:80"
-  },
-  {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Akamai Technologies, Inc.",
-    "proxy": "http://143.42.66.91:80"
-  },
-  {
-    "country": "United States",
-    "city": "Dallas",
-    "isp": "Limestone Networks, Inc.",
-    "proxy": "http://63.143.57.119:80"
   },
   {
     "country": "Bangladesh",
@@ -139,15 +121,33 @@
   },
   {
     "country": "United States",
+    "city": "San Jose",
+    "isp": "Cnservers LLC",
+    "proxy": "http://154.208.10.126:80"
+  },
+  {
+    "country": "United States",
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
     "proxy": "http://165.232.129.150:80"
   },
   {
-    "country": "United States",
-    "city": "San Jose",
-    "isp": "Cnservers LLC",
-    "proxy": "http://154.208.10.126:80"
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://5.75.130.49:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.203.28.43:80"
+  },
+  {
+    "country": "Hong Kong",
+    "city": "Central",
+    "isp": "Vantiva USA Shared Services Inc.",
+    "proxy": "http://157.254.53.50:80"
   },
   {
     "country": "Indonesia",
