@@ -60,12 +60,6 @@
     "proxy": "http://82.102.10.253:80"
   },
   {
-    "country": "United States",
-    "city": "Los Angeles",
-    "isp": "Cogent Communications",
-    "proxy": "http://154.64.226.138:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
@@ -124,17 +118,5 @@
     "city": "Buffalo",
     "isp": "ColoUp",
     "proxy": "http://162.223.90.130:80"
-  },
-  {
-    "country": "Malaysia",
-    "city": "Kota Kinabalu",
-    "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-    "proxy": "http://175.139.233.79:80"
-  },
-  {
-    "country": "Bangladesh",
-    "city": "Magura District",
-    "isp": "Jessore IT",
-    "proxy": "http://103.159.188.250:80"
   }
 ]
