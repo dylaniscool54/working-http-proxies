@@ -90,12 +90,6 @@
     "proxy": "http://165.232.129.150:80"
   },
   {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://144.126.216.57:80"
-  },
-  {
     "country": "Singapore",
     "city": "Singapore",
     "isp": "Akari Networks Limited",
@@ -124,5 +118,23 @@
     "city": "Dubai",
     "isp": "ITEL",
     "proxy": "http://87.248.129.26:80"
+  },
+  {
+    "country": "Hong Kong",
+    "city": "Kwai Chung",
+    "isp": "Hong Kong Broadband Network Ltd",
+    "proxy": "http://14.199.30.127:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "netcup GmbH",
+    "proxy": "http://93.177.67.178:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.203.28.43:80"
   }
 ]
