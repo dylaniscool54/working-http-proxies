@@ -73,12 +73,6 @@
   },
   {
     "country": "Germany",
-    "city": "Berlin",
-    "isp": "IONOS SE",
-    "proxy": "http://85.215.64.49:80"
-  },
-  {
-    "country": "Germany",
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://116.203.28.43:80"
@@ -94,5 +88,11 @@
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
     "proxy": "http://165.232.129.150:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "M1 LIMITED",
+    "proxy": "http://49.245.96.145:80"
   }
 ]
