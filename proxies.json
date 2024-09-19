@@ -66,22 +66,10 @@
     "proxy": "http://152.228.154.20:80"
   },
   {
-    "country": "United States",
-    "city": "Buffalo",
-    "isp": "ColoUp",
-    "proxy": "http://162.223.90.130:80"
-  },
-  {
     "country": "United Arab Emirates",
     "city": "Dubai",
     "isp": "ITEL",
     "proxy": "http://87.248.129.26:80"
-  },
-  {
-    "country": "Finland",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://65.108.207.6:80"
   },
   {
     "country": "Singapore",
@@ -90,34 +78,10 @@
     "proxy": "http://49.245.96.145:80"
   },
   {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Akamai Technologies, Inc.",
-    "proxy": "http://143.42.66.91:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.14.70:80"
-  },
-  {
-    "country": "Bangladesh",
-    "city": "Gopālganj",
-    "isp": "G Net Service",
-    "proxy": "http://103.253.103.50:80"
-  },
-  {
-    "country": "Nepal",
-    "city": "Kathmandu",
-    "isp": "Kaopu Cloud HK Limited",
-    "proxy": "http://38.54.71.67:80"
-  },
-  {
-    "country": "United States",
-    "city": "San Jose",
-    "isp": "Cnservers LLC",
-    "proxy": "http://154.208.10.126:80"
   },
   {
     "country": "Germany",
@@ -126,15 +90,15 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.203.28.43:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.134.69:80"
+  },
+  {
+    "country": "Argentina",
+    "city": "Córdoba",
+    "isp": "Sondatech S.A.S.",
+    "proxy": "http://190.103.177.131:80"
   }
 ]
