@@ -78,12 +78,6 @@
     "proxy": "http://51.89.255.67:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.203.28.43:80"
-  },
-  {
     "country": "Singapore",
     "city": "Singapore",
     "isp": "Akamai Technologies, Inc.",
@@ -112,12 +106,6 @@
     "city": "Helsinki",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://65.108.207.6:80"
-  },
-  {
-    "country": "Argentina",
-    "city": "Córdoba",
-    "isp": "Sondatech S.A.S.",
-    "proxy": "http://190.103.177.131:80"
   },
   {
     "country": "France",
