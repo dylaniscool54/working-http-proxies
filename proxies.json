@@ -108,10 +108,22 @@
     "proxy": "http://80.249.112.162:80"
   },
   {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
+  },
+  {
     "country": "United States",
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
     "proxy": "http://165.232.129.150:80"
+  },
+  {
+    "country": "United States",
+    "city": "San Jose",
+    "isp": "Cnservers LLC",
+    "proxy": "http://154.208.10.126:80"
   },
   {
     "country": "Bangladesh",
@@ -124,11 +136,5 @@
     "city": "Gravelines",
     "isp": "OVH SAS",
     "proxy": "http://145.239.54.185:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
   }
 ]
