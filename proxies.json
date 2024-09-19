@@ -61,33 +61,15 @@
   },
   {
     "country": "United States",
-    "city": "Los Angeles",
-    "isp": "Cogent Communications",
-    "proxy": "http://154.64.226.138:80"
-  },
-  {
-    "country": "United States",
     "city": "Dallas",
     "isp": "Limestone Networks, Inc.",
     "proxy": "http://63.143.57.119:80"
-  },
-  {
-    "country": "Japan",
-    "city": "Kawasaki",
-    "isp": "Kddi Corporation",
-    "proxy": "http://111.238.48.221:80"
   },
   {
     "country": "Germany",
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://116.203.28.43:80"
-  },
-  {
-    "country": "Germany",
-    "city": "Frankfurt am Main",
-    "isp": "Oracle Corporation",
-    "proxy": "http://193.122.61.167:80"
   },
   {
     "country": "Hong Kong",
@@ -120,12 +102,6 @@
     "proxy": "http://49.245.96.145:80"
   },
   {
-    "country": "Finland",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://65.108.207.6:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
@@ -135,6 +111,6 @@
     "country": "United States",
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
-    "proxy": "http://165.232.129.150:80"
+    "proxy": "http://144.126.216.57:80"
   }
 ]
