@@ -60,22 +60,10 @@
     "proxy": "http://51.89.255.67:80"
   },
   {
-    "country": "United Arab Emirates",
-    "city": "Dubai",
-    "isp": "ITEL",
-    "proxy": "http://87.248.129.26:80"
-  },
-  {
     "country": "United States",
     "city": "Los Angeles",
     "isp": "Cogent Communications",
     "proxy": "http://154.64.226.138:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
   },
   {
     "country": "Singapore",
@@ -126,9 +114,9 @@
     "proxy": "http://190.103.177.131:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "netcup GmbH",
-    "proxy": "http://93.177.67.178:80"
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://165.232.129.150:80"
   }
 ]
