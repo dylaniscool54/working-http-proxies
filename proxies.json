@@ -78,12 +78,6 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "Gosport",
-    "isp": "Redstation Limited",
-    "proxy": "http://82.102.10.253:80"
-  },
-  {
     "country": "United Arab Emirates",
     "city": "Dubai",
     "isp": "ITEL",
@@ -99,12 +93,12 @@
     "country": "Germany",
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
-    "proxy": "http://5.75.196.109:80"
+    "proxy": "http://5.75.130.49:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://5.75.130.49:80"
+    "country": "Bangladesh",
+    "city": "Magura District",
+    "isp": "Jessore IT",
+    "proxy": "http://103.159.188.250:80"
   }
 ]
