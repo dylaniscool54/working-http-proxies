@@ -24,12 +24,6 @@
     "proxy": "http://145.239.54.185:80"
   },
   {
-    "country": "Hong Kong",
-    "city": "Central",
-    "isp": "Vantiva USA Shared Services Inc.",
-    "proxy": "http://157.254.53.50:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
@@ -100,11 +94,5 @@
     "city": "Jakarta",
     "isp": "PT IndoInternet",
     "proxy": "http://117.54.114.33:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
   }
 ]
