@@ -36,12 +36,6 @@
     "proxy": "http://143.42.66.91:80"
   },
   {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "OVH SAS",
-    "proxy": "http://51.79.170.92:80"
-  },
-  {
     "country": "United States",
     "city": "Ashburn",
     "isp": "Hetzner Online GmbH",
@@ -102,15 +96,21 @@
     "proxy": "http://111.238.48.221:80"
   },
   {
-    "country": "Bangladesh",
-    "city": "Dhaka",
-    "isp": "Mahfujul Haque t/a Expert Online",
-    "proxy": "http://103.86.109.38:80"
-  },
-  {
     "country": "United States",
     "city": "Buffalo",
     "isp": "ColoUp",
     "proxy": "http://162.223.90.130:80"
+  },
+  {
+    "country": "Finland",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://65.108.207.6:80"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "isp": "PT IndoInternet",
+    "proxy": "http://117.54.114.33:80"
   }
 ]
