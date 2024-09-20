@@ -96,12 +96,6 @@
     "proxy": "http://154.64.226.138:80"
   },
   {
-    "country": "Bangladesh",
-    "city": "Dhaka",
-    "isp": "Mahfujul Haque t/a Expert Online",
-    "proxy": "http://103.86.109.38:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
@@ -114,9 +108,15 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "Ireland",
-    "city": "Dublin",
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.203.28.43:80"
+  },
+  {
+    "country": "France",
+    "city": "Gravelines",
     "isp": "OVH SAS",
-    "proxy": "http://51.254.78.223:80"
+    "proxy": "http://145.239.54.185:80"
   }
 ]
