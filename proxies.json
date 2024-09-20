@@ -72,12 +72,6 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "Japan",
-    "city": "Kawasaki",
-    "isp": "Kddi Corporation",
-    "proxy": "http://111.238.48.221:80"
-  },
-  {
     "country": "United States",
     "city": "Buffalo",
     "isp": "ColoUp",
@@ -94,5 +88,35 @@
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.14.70:80"
+  },
+  {
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://144.126.216.57:80"
+  },
+  {
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://165.232.129.150:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Falkenstein",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.202.19.18:80"
+  },
+  {
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "isp": "G-Core Labs S.A.",
+    "proxy": "http://109.61.42.223:80"
+  },
+  {
+    "country": "Poland",
+    "city": "Warsaw",
+    "isp": "Global Connectivity Solutions LLP",
+    "proxy": "http://77.83.246.25:80"
   }
 ]
