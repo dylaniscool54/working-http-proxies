@@ -118,5 +118,23 @@
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.14.70:80"
+  },
+  {
+    "country": "Argentina",
+    "city": "Córdoba",
+    "isp": "Sondatech S.A.S.",
+    "proxy": "http://190.103.177.131:80"
+  },
+  {
+    "country": "Finland",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://65.108.207.6:80"
+  },
+  {
+    "country": "Ireland",
+    "city": "Dublin",
+    "isp": "OVH SAS",
+    "proxy": "http://51.254.78.223:80"
   }
 ]
