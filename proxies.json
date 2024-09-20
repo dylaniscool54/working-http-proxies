@@ -57,12 +57,6 @@
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
     "proxy": "http://51.89.255.67:80"
   },
   {
@@ -84,15 +78,15 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "Argentina",
-    "city": "Córdoba",
-    "isp": "Sondatech S.A.S.",
-    "proxy": "http://190.103.177.131:80"
+    "country": "United Kingdom",
+    "city": "Gosport",
+    "isp": "Redstation Limited",
+    "proxy": "http://82.102.10.253:80"
   },
   {
-    "country": "France",
-    "city": "Paris",
-    "isp": "Oracle Corporation",
-    "proxy": "http://141.145.214.176:80"
+    "country": "Bangladesh",
+    "city": "Magura District",
+    "isp": "Jessore IT",
+    "proxy": "http://103.159.188.250:80"
   }
 ]
