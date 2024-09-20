@@ -54,12 +54,6 @@
     "proxy": "http://145.239.54.185:80"
   },
   {
-    "country": "Finland",
-    "city": "Helsinki",
-    "isp": "Aeza International LTD",
-    "proxy": "http://77.91.70.98:80"
-  },
-  {
     "country": "United Arab Emirates",
     "city": "Dubai",
     "isp": "ITEL",
@@ -106,11 +100,5 @@
     "city": "Helsinki",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://65.108.207.6:80"
-  },
-  {
-    "country": "United States",
-    "city": "San Jose",
-    "isp": "Cnservers LLC",
-    "proxy": "http://154.208.10.126:80"
   }
 ]
