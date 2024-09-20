@@ -72,33 +72,21 @@
     "proxy": "http://51.89.255.67:80"
   },
   {
-    "country": "Iran",
-    "city": "Tehran",
-    "isp": "Pars Parva System Ltd",
-    "proxy": "http://130.185.77.63:80"
-  },
-  {
-    "country": "Hong Kong",
-    "city": "Kwai Chung",
-    "isp": "Hong Kong Broadband Network Ltd",
-    "proxy": "http://14.199.30.127:80"
-  },
-  {
     "country": "United States",
     "city": "Los Angeles",
     "isp": "Cogent Communications",
     "proxy": "http://154.64.226.138:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "Gosport",
-    "isp": "Redstation Limited",
-    "proxy": "http://82.102.10.253:80"
-  },
-  {
     "country": "Argentina",
     "city": "Córdoba",
     "isp": "Sondatech S.A.S.",
     "proxy": "http://190.103.177.131:80"
+  },
+  {
+    "country": "United States",
+    "city": "Dallas",
+    "isp": "Limestone Networks, Inc.",
+    "proxy": "http://63.143.57.119:80"
   }
 ]
