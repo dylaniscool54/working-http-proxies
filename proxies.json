@@ -120,12 +120,6 @@
     "proxy": "http://111.238.48.221:80"
   },
   {
-    "country": "Australia",
-    "city": "Sydney",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://170.64.181.146:80"
-  },
-  {
     "country": "United Arab Emirates",
     "city": "Dubai",
     "isp": "ITEL",
