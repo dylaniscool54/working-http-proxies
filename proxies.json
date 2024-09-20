@@ -90,10 +90,16 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "Bangladesh",
-    "city": "Dhaka",
-    "isp": "Mahfujul Haque t/a Expert Online",
-    "proxy": "http://103.86.109.38:80"
+    "country": "Iran",
+    "city": "Tehran",
+    "isp": "Parsian Technology Innovative Solution Co., PJS.",
+    "proxy": "http://80.249.112.162:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "OVH SAS",
+    "proxy": "http://51.79.170.92:80"
   },
   {
     "country": "Japan",
@@ -114,15 +120,9 @@
     "proxy": "http://51.89.14.70:80"
   },
   {
-    "country": "Iran",
-    "city": "Tehran",
-    "isp": "Parsian Technology Innovative Solution Co., PJS.",
-    "proxy": "http://80.249.112.162:80"
-  },
-  {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "OVH SAS",
-    "proxy": "http://51.79.170.92:80"
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.203.28.43:80"
   }
 ]
