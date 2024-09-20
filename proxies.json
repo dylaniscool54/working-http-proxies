@@ -54,12 +54,6 @@
     "proxy": "http://51.79.170.92:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.134.69:80"
-  },
-  {
     "country": "France",
     "city": "Gravelines",
     "isp": "OVH SAS",
@@ -70,12 +64,6 @@
     "city": "Helsinki",
     "isp": "Aeza International LTD",
     "proxy": "http://77.91.70.98:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.134.65:80"
   },
   {
     "country": "United Arab Emirates",
@@ -94,12 +82,6 @@
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://116.203.28.43:80"
-  },
-  {
-    "country": "Germany",
-    "city": "Berlin",
-    "isp": "IONOS SE",
-    "proxy": "http://85.215.64.49:80"
   },
   {
     "country": "Hong Kong",
@@ -124,5 +106,11 @@
     "city": "Buffalo",
     "isp": "ColoUp",
     "proxy": "http://162.223.90.130:80"
+  },
+  {
+    "country": "United States",
+    "city": "San Jose",
+    "isp": "Cnservers LLC",
+    "proxy": "http://154.208.10.126:80"
   }
 ]
