@@ -124,5 +124,11 @@
     "city": "Los Angeles",
     "isp": "Cogent Communications",
     "proxy": "http://154.64.226.138:80"
+  },
+  {
+    "country": "Japan",
+    "city": "Kyoto",
+    "isp": "KAGOYA JAPAN Inc.",
+    "proxy": "http://133.18.234.13:80"
   }
 ]
