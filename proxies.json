@@ -84,12 +84,6 @@
     "proxy": "http://63.143.57.119:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.134.69:80"
-  },
-  {
     "country": "Bangladesh",
     "city": "Gopālganj",
     "isp": "G Net Service",
@@ -154,5 +148,11 @@
     "city": "Gosport",
     "isp": "Redstation Limited",
     "proxy": "http://82.102.10.253:80"
+  },
+  {
+    "country": "Hong Kong",
+    "city": "Kwai Chung",
+    "isp": "Hong Kong Broadband Network Ltd",
+    "proxy": "http://14.199.30.127:80"
   }
 ]
