@@ -6,12 +6,6 @@
     "proxy": "http://91.107.252.136:80"
   },
   {
-    "country": "Iran",
-    "city": "Tehran",
-    "isp": "Parsian Technology Innovative Solution Co., PJS.",
-    "proxy": "http://80.249.112.162:80"
-  },
-  {
     "country": "France",
     "city": "Roubaix",
     "isp": "OVH SAS",
@@ -46,12 +40,6 @@
     "city": "Singapore",
     "isp": "Akamai Technologies, Inc.",
     "proxy": "http://143.42.66.91:80"
-  },
-  {
-    "country": "Japan",
-    "city": "Kawasaki",
-    "isp": "Kddi Corporation",
-    "proxy": "http://111.238.48.221:80"
   },
   {
     "country": "United Kingdom",
@@ -108,9 +96,33 @@
     "proxy": "http://103.86.109.38:80"
   },
   {
+    "country": "Japan",
+    "city": "Kawasaki",
+    "isp": "Kddi Corporation",
+    "proxy": "http://111.238.48.221:80"
+  },
+  {
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://165.232.129.150:80"
+  },
+  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.14.70:80"
+  },
+  {
+    "country": "Iran",
+    "city": "Tehran",
+    "isp": "Parsian Technology Innovative Solution Co., PJS.",
+    "proxy": "http://80.249.112.162:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "OVH SAS",
+    "proxy": "http://51.79.170.92:80"
   }
 ]
