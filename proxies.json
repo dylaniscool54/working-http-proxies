@@ -120,12 +120,6 @@
     "proxy": "http://162.223.90.130:80"
   },
   {
-    "country": "Ireland",
-    "city": "Dublin",
-    "isp": "OVH SAS",
-    "proxy": "http://51.254.78.223:80"
-  },
-  {
     "country": "Argentina",
     "city": "Córdoba",
     "isp": "Sondatech S.A.S.",
@@ -144,9 +138,9 @@
     "proxy": "http://5.75.130.49:80"
   },
   {
-    "country": "Germany",
-    "city": "Frankfurt am Main",
-    "isp": "Oracle Corporation",
-    "proxy": "http://193.122.61.167:80"
+    "country": "United States",
+    "city": "Los Angeles",
+    "isp": "Cogent Communications",
+    "proxy": "http://154.39.83.100:80"
   }
 ]
