@@ -82,5 +82,11 @@
     "city": "Tehran",
     "isp": "Parsian Technology Innovative Solution Co., PJS.",
     "proxy": "http://80.249.112.162:80"
+  },
+  {
+    "country": "Australia",
+    "city": "Sydney",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://170.64.181.146:80"
   }
 ]
