@@ -42,12 +42,6 @@
     "proxy": "http://77.83.246.25:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "Gosport",
-    "isp": "Redstation Limited",
-    "proxy": "http://82.102.10.253:80"
-  },
-  {
     "country": "Singapore",
     "city": "Singapore",
     "isp": "Akamai Technologies, Inc.",
@@ -108,9 +102,15 @@
     "proxy": "http://162.223.90.130:80"
   },
   {
-    "country": "United States",
-    "city": "Buffalo",
-    "isp": "ColoCrossing",
-    "proxy": "http://198.12.85.211:80"
+    "country": "United Kingdom",
+    "city": "Gosport",
+    "isp": "Redstation Limited",
+    "proxy": "http://82.102.10.253:80"
+  },
+  {
+    "country": "Argentina",
+    "city": "Córdoba",
+    "isp": "Sondatech S.A.S.",
+    "proxy": "http://190.103.177.131:80"
   }
 ]
