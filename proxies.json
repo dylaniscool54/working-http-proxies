@@ -88,5 +88,11 @@
     "city": "Gosport",
     "isp": "Redstation Limited",
     "proxy": "http://82.102.10.253:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.203.28.43:80"
   }
 ]
