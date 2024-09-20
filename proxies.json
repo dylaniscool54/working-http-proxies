@@ -76,5 +76,17 @@
     "city": "Buffalo",
     "isp": "ColoUp",
     "proxy": "http://162.223.90.130:80"
+  },
+  {
+    "country": "Iran",
+    "city": "Tehran",
+    "isp": "Pars Parva System Ltd",
+    "proxy": "http://130.185.77.63:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "isp": "Mahfujul Haque t/a Expert Online",
+    "proxy": "http://103.86.109.38:80"
   }
 ]
