@@ -55,12 +55,6 @@
   },
   {
     "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://5.75.130.49:80"
-  },
-  {
-    "country": "Germany",
     "city": "Falkenstein",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://116.202.19.18:80"
@@ -90,12 +84,6 @@
     "proxy": "http://80.249.112.162:80"
   },
   {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://165.232.129.150:80"
-  },
-  {
     "country": "Singapore",
     "city": "Singapore",
     "isp": "OVH SAS",
@@ -106,5 +94,11 @@
     "city": "Dublin",
     "isp": "OVH SAS",
     "proxy": "http://51.254.78.223:80"
+  },
+  {
+    "country": "Japan",
+    "city": "Kawasaki",
+    "isp": "Kddi Corporation",
+    "proxy": "http://111.238.48.221:80"
   }
 ]
