@@ -78,12 +78,6 @@
     "proxy": "http://144.126.216.57:80"
   },
   {
-    "country": "Argentina",
-    "city": "Córdoba",
-    "isp": "Sondatech S.A.S.",
-    "proxy": "http://190.103.177.131:80"
-  },
-  {
     "country": "United States",
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
@@ -114,12 +108,6 @@
     "proxy": "http://103.190.179.27:80"
   },
   {
-    "country": "Japan",
-    "city": "Kyoto",
-    "isp": "KAGOYA JAPAN Inc.",
-    "proxy": "http://133.18.234.13:80"
-  },
-  {
     "country": "France",
     "city": "Paris",
     "isp": "Oracle Corporation",
@@ -130,5 +118,29 @@
     "city": "Los Angeles",
     "isp": "Cogent Communications",
     "proxy": "http://154.39.83.100:80"
+  },
+  {
+    "country": "United States",
+    "city": "San Jose",
+    "isp": "Cnservers LLC",
+    "proxy": "http://154.208.10.126:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Frankfurt am Main",
+    "isp": "Oracle Corporation",
+    "proxy": "http://193.122.61.167:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "isp": "Mahfujul Haque t/a Expert Online",
+    "proxy": "http://103.86.109.38:80"
+  },
+  {
+    "country": "Japan",
+    "city": "Kawasaki",
+    "isp": "Kddi Corporation",
+    "proxy": "http://111.238.48.221:80"
   }
 ]
