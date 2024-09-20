@@ -12,12 +12,6 @@
     "proxy": "http://154.64.226.138:80"
   },
   {
-    "country": "United States",
-    "city": "Buffalo",
-    "isp": "ColoUp",
-    "proxy": "http://162.223.90.130:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
@@ -82,11 +76,5 @@
     "city": "Singapore",
     "isp": "Akari Networks Limited",
     "proxy": "http://103.190.179.27:80"
-  },
-  {
-    "country": "Indonesia",
-    "city": "Jakarta",
-    "isp": "PT IndoInternet",
-    "proxy": "http://117.54.114.102:80"
   }
 ]
