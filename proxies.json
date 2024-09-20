@@ -42,12 +42,6 @@
     "proxy": "http://116.202.19.18:80"
   },
   {
-    "country": "Hong Kong",
-    "city": "Central",
-    "isp": "Vantiva USA Shared Services Inc.",
-    "proxy": "http://157.254.53.50:80"
-  },
-  {
     "country": "United Arab Emirates",
     "city": "Dubai",
     "isp": "G-Core Labs S.A.",
@@ -118,6 +112,12 @@
     "city": "Singapore",
     "isp": "OVH SAS",
     "proxy": "http://51.79.170.92:80"
+  },
+  {
+    "country": "Hong Kong",
+    "city": "Central",
+    "isp": "Vantiva USA Shared Services Inc.",
+    "proxy": "http://157.254.53.50:80"
   },
   {
     "country": "Argentina",
