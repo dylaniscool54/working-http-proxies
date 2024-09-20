@@ -90,12 +90,6 @@
     "proxy": "http://157.254.53.50:80"
   },
   {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://144.126.216.57:80"
-  },
-  {
     "country": "Finland",
     "city": "Helsinki",
     "isp": "Hetzner Online GmbH",
@@ -126,21 +120,15 @@
     "proxy": "http://82.102.10.253:80"
   },
   {
-    "country": "Hong Kong",
-    "city": "Kwai Chung",
-    "isp": "Hong Kong Broadband Network Ltd",
-    "proxy": "http://14.199.30.127:80"
-  },
-  {
     "country": "United Arab Emirates",
     "city": "Dubai",
     "isp": "G-Core Labs S.A.",
     "proxy": "http://109.61.42.223:80"
   },
   {
-    "country": "Nepal",
-    "city": "Kathmandu",
-    "isp": "Kaopu Cloud HK Limited",
-    "proxy": "http://38.54.71.67:80"
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://144.126.216.57:80"
   }
 ]
