@@ -48,12 +48,6 @@
     "proxy": "http://5.75.130.49:80"
   },
   {
-    "country": "Hong Kong",
-    "city": "Central",
-    "isp": "Vantiva USA Shared Services Inc.",
-    "proxy": "http://157.254.53.50:80"
-  },
-  {
     "country": "Japan",
     "city": "Kawasaki",
     "isp": "Kddi Corporation",
