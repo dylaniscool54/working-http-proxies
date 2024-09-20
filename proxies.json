@@ -54,12 +54,6 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://165.232.129.150:80"
-  },
-  {
     "country": "Hong Kong",
     "city": "Central",
     "isp": "Vantiva USA Shared Services Inc.",
@@ -112,5 +106,23 @@
     "city": "Dhaka",
     "isp": "Mahfujul Haque t/a Expert Online",
     "proxy": "http://103.86.109.38:80"
+  },
+  {
+    "country": "Argentina",
+    "city": "Córdoba",
+    "isp": "Sondatech S.A.S.",
+    "proxy": "http://190.103.177.131:80"
+  },
+  {
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://165.232.129.150:80"
+  },
+  {
+    "country": "United States",
+    "city": "Buffalo",
+    "isp": "ColoCrossing",
+    "proxy": "http://198.12.85.213:80"
   }
 ]
