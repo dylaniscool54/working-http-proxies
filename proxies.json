@@ -66,10 +66,22 @@
     "proxy": "http://157.254.53.50:80"
   },
   {
-    "country": "Germany",
-    "city": "Berlin",
-    "isp": "IONOS SE",
-    "proxy": "http://85.215.64.49:80"
+    "country": "Finland",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://65.108.207.6:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Magura District",
+    "isp": "Jessore IT",
+    "proxy": "http://103.159.188.250:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
   },
   {
     "country": "United States",
@@ -82,23 +94,5 @@
     "city": "Dhaka",
     "isp": "Mahfujul Haque t/a Expert Online",
     "proxy": "http://103.86.109.38:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
-  },
-  {
-    "country": "Finland",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://65.108.207.6:80"
-  },
-  {
-    "country": "United States",
-    "city": "Cedar Knolls",
-    "isp": "Akamai Technologies, Inc.",
-    "proxy": "http://143.42.191.48:80"
   }
 ]
