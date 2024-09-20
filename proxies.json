@@ -37,12 +37,6 @@
   },
   {
     "country": "Germany",
-    "city": "Berlin",
-    "isp": "IONOS SE",
-    "proxy": "http://85.215.64.49:80"
-  },
-  {
-    "country": "Germany",
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://5.75.130.49:80"
@@ -97,21 +91,9 @@
   },
   {
     "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://165.232.129.150:80"
-  },
-  {
-    "country": "United States",
     "city": "Los Angeles",
     "isp": "Cogent Communications",
     "proxy": "http://154.64.226.138:80"
-  },
-  {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://144.126.216.57:80"
   },
   {
     "country": "Bangladesh",
