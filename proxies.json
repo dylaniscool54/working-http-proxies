@@ -96,12 +96,6 @@
     "proxy": "http://103.253.103.50:80"
   },
   {
-    "country": "Finland",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://65.108.207.6:80"
-  },
-  {
     "country": "United States",
     "city": "Buffalo",
     "isp": "ColoUp",
@@ -112,12 +106,6 @@
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://116.203.28.43:80"
-  },
-  {
-    "country": "United States",
-    "city": "San Jose",
-    "isp": "Cnservers LLC",
-    "proxy": "http://154.208.10.126:80"
   },
   {
     "country": "United Kingdom",
