@@ -78,28 +78,16 @@
     "proxy": "http://82.102.10.253:80"
   },
   {
-    "country": "Nepal",
-    "city": "Kathmandu",
-    "isp": "Kaopu Cloud HK Limited",
-    "proxy": "http://38.54.71.67:80"
-  },
-  {
     "country": "United Arab Emirates",
     "city": "Dubai",
     "isp": "ITEL",
     "proxy": "http://87.248.129.26:80"
   },
   {
-    "country": "United States",
-    "city": "Buffalo",
-    "isp": "ColoUp",
-    "proxy": "http://162.223.90.130:80"
-  },
-  {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://144.126.216.57:80"
+    "country": "Finland",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://65.108.207.6:80"
   },
   {
     "country": "Germany",
@@ -108,9 +96,9 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "Finland",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://65.108.207.6:80"
+    "country": "United States",
+    "city": "Buffalo",
+    "isp": "ColoUp",
+    "proxy": "http://162.223.90.130:80"
   }
 ]
