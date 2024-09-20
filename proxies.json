@@ -72,12 +72,6 @@
     "proxy": "http://162.223.90.130:80"
   },
   {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://144.126.216.57:80"
-  },
-  {
     "country": "Hong Kong",
     "city": "Central",
     "isp": "Vantiva USA Shared Services Inc.",
@@ -124,5 +118,11 @@
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.14.70:80"
+  },
+  {
+    "country": "Finland",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://65.108.207.6:80"
   }
 ]
