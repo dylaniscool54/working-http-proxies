@@ -66,18 +66,6 @@
     "proxy": "http://87.248.129.26:80"
   },
   {
-    "country": "Germany",
-    "city": "Berlin",
-    "isp": "IONOS SE",
-    "proxy": "http://85.215.64.49:80"
-  },
-  {
-    "country": "Hong Kong",
-    "city": "Central",
-    "isp": "Vantiva USA Shared Services Inc.",
-    "proxy": "http://157.254.53.50:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
