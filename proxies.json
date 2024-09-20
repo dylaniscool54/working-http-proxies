@@ -78,12 +78,6 @@
     "proxy": "http://103.86.109.38:80"
   },
   {
-    "country": "United States",
-    "city": "Dallas",
-    "isp": "Limestone Networks, Inc.",
-    "proxy": "http://63.143.57.119:80"
-  },
-  {
     "country": "Bangladesh",
     "city": "Gopālganj",
     "isp": "G Net Service",
@@ -94,12 +88,6 @@
     "city": "Buffalo",
     "isp": "ColoUp",
     "proxy": "http://162.223.90.130:80"
-  },
-  {
-    "country": "Germany",
-    "city": "Berlin",
-    "isp": "IONOS SE",
-    "proxy": "http://85.215.64.49:80"
   },
   {
     "country": "United Kingdom",
@@ -154,5 +142,23 @@
     "city": "Los Angeles",
     "isp": "Cogent Communications",
     "proxy": "http://154.64.226.138:80"
+  },
+  {
+    "country": "United States",
+    "city": "Cedar Knolls",
+    "isp": "Akamai Technologies, Inc.",
+    "proxy": "http://143.42.191.48:80"
+  },
+  {
+    "country": "United States",
+    "city": "Los Angeles",
+    "isp": "Cogent Communications",
+    "proxy": "http://154.39.83.100:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Akamai Technologies, Inc.",
+    "proxy": "http://143.42.66.91:80"
   }
 ]
