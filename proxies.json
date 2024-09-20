@@ -36,12 +36,6 @@
     "proxy": "http://143.42.66.91:80"
   },
   {
-    "country": "Finland",
-    "city": "Helsinki",
-    "isp": "Aeza International LTD",
-    "proxy": "http://77.91.70.98:80"
-  },
-  {
     "country": "Iran",
     "city": "Tehran",
     "isp": "Parsian Technology Innovative Solution Co., PJS.",
@@ -138,9 +132,9 @@
     "proxy": "http://165.232.129.150:80"
   },
   {
-    "country": "Bangladesh",
-    "city": "Magura District",
-    "isp": "Jessore IT",
-    "proxy": "http://103.159.188.250:80"
+    "country": "Japan",
+    "city": "Kawasaki",
+    "isp": "Kddi Corporation",
+    "proxy": "http://111.238.48.221:80"
   }
 ]
