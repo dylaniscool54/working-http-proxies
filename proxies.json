@@ -54,12 +54,6 @@
     "proxy": "http://157.254.53.50:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.255.67:80"
-  },
-  {
     "country": "Germany",
     "city": "Berlin",
     "isp": "IONOS SE",
@@ -88,5 +82,11 @@
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.14.70:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.255.67:80"
   }
 ]
