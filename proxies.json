@@ -102,12 +102,6 @@
     "proxy": "http://162.223.90.130:80"
   },
   {
-    "country": "Ireland",
-    "city": "Dublin",
-    "isp": "OVH SAS",
-    "proxy": "http://51.254.78.223:80"
-  },
-  {
     "country": "United Arab Emirates",
     "city": "Dubai",
     "isp": "G-Core Labs S.A.",
