@@ -60,12 +60,6 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "Iran",
-    "city": "Tehran",
-    "isp": "Parsian Technology Innovative Solution Co., PJS.",
-    "proxy": "http://80.249.112.162:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
@@ -120,9 +114,9 @@
     "proxy": "http://190.103.177.131:80"
   },
   {
-    "country": "Germany",
-    "city": "Frankfurt am Main",
-    "isp": "Oracle Corporation",
-    "proxy": "http://193.122.61.167:80"
+    "country": "Iran",
+    "city": "Tehran",
+    "isp": "Parsian Technology Innovative Solution Co., PJS.",
+    "proxy": "http://80.249.112.162:80"
   }
 ]
