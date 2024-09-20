@@ -118,5 +118,11 @@
     "city": "Berlin",
     "isp": "IONOS SE",
     "proxy": "http://85.215.64.49:80"
+  },
+  {
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://144.126.216.57:80"
   }
 ]
