@@ -48,12 +48,6 @@
     "proxy": "http://154.64.226.138:80"
   },
   {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://165.232.129.150:80"
-  },
-  {
     "country": "Germany",
     "city": "Berlin",
     "isp": "IONOS SE",
@@ -82,5 +76,11 @@
     "city": "Central",
     "isp": "Vantiva USA Shared Services Inc.",
     "proxy": "http://157.254.53.50:80"
+  },
+  {
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://165.232.129.150:80"
   }
 ]
