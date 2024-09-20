@@ -96,21 +96,21 @@
     "proxy": "http://82.102.10.253:80"
   },
   {
-    "country": "Finland",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://65.108.207.6:80"
-  },
-  {
     "country": "Germany",
     "city": "Berlin",
     "isp": "IONOS SE",
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
+    "country": "Finland",
+    "city": "Helsinki",
     "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.203.28.43:80"
+    "proxy": "http://65.108.207.6:80"
+  },
+  {
+    "country": "United States",
+    "city": "San Jose",
+    "isp": "Cnservers LLC",
+    "proxy": "http://154.208.10.126:80"
   }
 ]
