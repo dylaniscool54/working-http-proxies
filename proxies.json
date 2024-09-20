@@ -84,12 +84,6 @@
     "proxy": "http://111.238.48.221:80"
   },
   {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "OVH SAS",
-    "proxy": "http://51.79.170.92:80"
-  },
-  {
     "country": "Hong Kong",
     "city": "Central",
     "isp": "Vantiva USA Shared Services Inc.",
@@ -114,18 +108,6 @@
     "proxy": "http://82.102.10.253:80"
   },
   {
-    "country": "Hong Kong",
-    "city": "Kwai Chung",
-    "isp": "Hong Kong Broadband Network Ltd",
-    "proxy": "http://14.199.30.127:80"
-  },
-  {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Akari Networks Limited",
-    "proxy": "http://103.190.179.27:80"
-  },
-  {
     "country": "Argentina",
     "city": "Córdoba",
     "isp": "Sondatech S.A.S.",
@@ -142,5 +124,11 @@
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.134.69:80"
+  },
+  {
+    "country": "Ireland",
+    "city": "Dublin",
+    "isp": "OVH SAS",
+    "proxy": "http://51.254.78.223:80"
   }
 ]
