@@ -114,9 +114,9 @@
     "proxy": "http://190.103.177.131:80"
   },
   {
-    "country": "Japan",
-    "city": "Kyoto",
-    "isp": "KAGOYA JAPAN Inc.",
-    "proxy": "http://133.18.234.13:80"
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://165.232.129.150:80"
   }
 ]
