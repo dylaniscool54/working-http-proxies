@@ -108,12 +108,6 @@
     "proxy": "http://154.208.10.126:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.203.28.43:80"
-  },
-  {
     "country": "France",
     "city": "Gravelines",
     "isp": "OVH SAS",
@@ -132,9 +126,27 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "United States",
-    "city": "Los Angeles",
-    "isp": "Cogent Communications",
-    "proxy": "http://154.64.226.138:80"
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.134.68:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "isp": "Mahfujul Haque t/a Expert Online",
+    "proxy": "http://103.86.109.38:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Akari Networks Limited",
+    "proxy": "http://103.190.179.27:80"
+  },
+  {
+    "country": "Nepal",
+    "city": "Kathmandu",
+    "isp": "Kaopu Cloud HK Limited",
+    "proxy": "http://38.54.71.67:80"
   }
 ]
