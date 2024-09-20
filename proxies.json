@@ -60,12 +60,6 @@
     "proxy": "http://116.203.28.43:80"
   },
   {
-    "country": "Hong Kong",
-    "city": "Central",
-    "isp": "Vantiva USA Shared Services Inc.",
-    "proxy": "http://157.254.53.50:80"
-  },
-  {
     "country": "Bangladesh",
     "city": "Gopālganj",
     "isp": "G Net Service",
@@ -76,18 +70,6 @@
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.134.68:80"
-  },
-  {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://144.126.216.57:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
   },
   {
     "country": "Iran",
@@ -114,9 +96,9 @@
     "proxy": "http://154.64.226.138:80"
   },
   {
-    "country": "Ireland",
-    "city": "Dublin",
-    "isp": "OVH SAS",
-    "proxy": "http://51.254.78.223:80"
+    "country": "Japan",
+    "city": "Kawasaki",
+    "isp": "Kddi Corporation",
+    "proxy": "http://111.238.48.221:80"
   }
 ]
