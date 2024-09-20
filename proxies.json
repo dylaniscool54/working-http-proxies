@@ -142,5 +142,35 @@
     "city": "Dublin",
     "isp": "OVH SAS",
     "proxy": "http://51.254.78.223:80"
+  },
+  {
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://165.232.129.150:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.203.28.43:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Akari Networks Limited",
+    "proxy": "http://103.190.179.27:80"
+  },
+  {
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://144.126.216.57:80"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "isp": "PT IndoInternet",
+    "proxy": "http://117.54.114.102:80"
   }
 ]
