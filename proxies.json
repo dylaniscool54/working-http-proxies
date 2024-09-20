@@ -112,5 +112,11 @@
     "city": "Dubai",
     "isp": "G-Core Labs S.A.",
     "proxy": "http://109.61.42.223:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
   }
 ]
