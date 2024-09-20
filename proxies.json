@@ -96,12 +96,6 @@
     "proxy": "http://165.232.129.150:80"
   },
   {
-    "country": "United States",
-    "city": "Cedar Knolls",
-    "isp": "Akamai Technologies, Inc.",
-    "proxy": "http://143.42.191.48:80"
-  },
-  {
     "country": "Japan",
     "city": "Kawasaki",
     "isp": "Kddi Corporation",
@@ -114,9 +108,9 @@
     "proxy": "http://130.185.77.63:80"
   },
   {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Akari Networks Limited",
-    "proxy": "http://103.190.179.27:80"
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.134.69:80"
   }
 ]
