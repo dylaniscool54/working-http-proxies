@@ -78,12 +78,6 @@
     "proxy": "http://165.232.129.150:80"
   },
   {
-    "country": "United Arab Emirates",
-    "city": "Dubai",
-    "isp": "G-Core Labs S.A.",
-    "proxy": "http://109.61.42.223:80"
-  },
-  {
     "country": "Iran",
     "city": "Tehran",
     "isp": "Parsian Technology Innovative Solution Co., PJS.",
@@ -106,5 +100,11 @@
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.134.69:80"
+  },
+  {
+    "country": "United States",
+    "city": "Buffalo",
+    "isp": "ColoUp",
+    "proxy": "http://162.223.90.130:80"
   }
 ]
