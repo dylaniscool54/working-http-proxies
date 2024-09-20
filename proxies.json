@@ -78,22 +78,10 @@
     "proxy": "http://103.86.109.38:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.255.67:80"
-  },
-  {
     "country": "United States",
     "city": "Dallas",
     "isp": "Limestone Networks, Inc.",
     "proxy": "http://63.143.57.119:80"
-  },
-  {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "M1 LIMITED",
-    "proxy": "http://49.245.96.145:80"
   },
   {
     "country": "United Kingdom",
@@ -112,12 +100,6 @@
     "city": "Buffalo",
     "isp": "ColoUp",
     "proxy": "http://162.223.90.130:80"
-  },
-  {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Akari Networks Limited",
-    "proxy": "http://103.190.179.27:80"
   },
   {
     "country": "United Kingdom",
@@ -142,5 +124,29 @@
     "city": "Singapore",
     "isp": "Akamai Technologies, Inc.",
     "proxy": "http://143.42.66.91:80"
+  },
+  {
+    "country": "United States",
+    "city": "Cedar Knolls",
+    "isp": "Akamai Technologies, Inc.",
+    "proxy": "http://143.42.191.48:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Akari Networks Limited",
+    "proxy": "http://103.190.179.27:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.255.67:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "M1 LIMITED",
+    "proxy": "http://49.245.96.145:80"
   }
 ]
