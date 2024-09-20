@@ -24,12 +24,6 @@
     "proxy": "http://152.228.154.20:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://5.75.130.49:80"
-  },
-  {
     "country": "United States",
     "city": "Buffalo",
     "isp": "ColoUp",
@@ -49,12 +43,6 @@
   },
   {
     "country": "United States",
-    "city": "Ashburn",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://5.161.103.113:80"
-  },
-  {
-    "country": "United States",
     "city": "San Jose",
     "isp": "Cnservers LLC",
     "proxy": "http://154.208.10.126:80"
@@ -64,12 +52,6 @@
     "city": "Central",
     "isp": "Vantiva USA Shared Services Inc.",
     "proxy": "http://157.254.53.50:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
   },
   {
     "country": "Germany",
@@ -112,11 +94,5 @@
     "city": "Kawasaki",
     "isp": "Kddi Corporation",
     "proxy": "http://111.238.48.221:80"
-  },
-  {
-    "country": "Bangladesh",
-    "city": "Gopālganj",
-    "isp": "G Net Service",
-    "proxy": "http://103.253.103.50:80"
   }
 ]
