@@ -82,5 +82,17 @@
     "city": "Gosport",
     "isp": "Redstation Limited",
     "proxy": "http://82.102.10.253:80"
+  },
+  {
+    "country": "Hong Kong",
+    "city": "Central",
+    "isp": "Vantiva USA Shared Services Inc.",
+    "proxy": "http://157.254.53.50:80"
+  },
+  {
+    "country": "Finland",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://65.108.207.6:80"
   }
 ]
