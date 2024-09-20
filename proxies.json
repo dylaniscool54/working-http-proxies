@@ -54,12 +54,6 @@
     "proxy": "http://77.91.70.98:80"
   },
   {
-    "country": "United States",
-    "city": "Buffalo",
-    "isp": "ColoUp",
-    "proxy": "http://162.223.90.130:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
@@ -72,22 +66,10 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://144.126.216.57:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "Gosport",
     "isp": "Redstation Limited",
     "proxy": "http://82.102.10.253:80"
-  },
-  {
-    "country": "Iran",
-    "city": "Tehran",
-    "isp": "Parsian Technology Innovative Solution Co., PJS.",
-    "proxy": "http://80.249.112.162:80"
   },
   {
     "country": "United Arab Emirates",
@@ -102,21 +84,33 @@
     "proxy": "http://165.232.129.150:80"
   },
   {
-    "country": "United States",
-    "city": "San Jose",
-    "isp": "Cnservers LLC",
-    "proxy": "http://154.208.10.126:80"
-  },
-  {
     "country": "Ireland",
     "city": "Dublin",
     "isp": "OVH SAS",
     "proxy": "http://51.254.78.223:80"
   },
   {
-    "country": "Japan",
-    "city": "Kyoto",
-    "isp": "KAGOYA JAPAN Inc.",
-    "proxy": "http://133.18.234.13:80"
+    "country": "Iran",
+    "city": "Tehran",
+    "isp": "Pars Parva System Ltd",
+    "proxy": "http://130.185.77.63:80"
+  },
+  {
+    "country": "Hong Kong",
+    "city": "Central",
+    "isp": "Vantiva USA Shared Services Inc.",
+    "proxy": "http://157.254.53.50:80"
+  },
+  {
+    "country": "United States",
+    "city": "Buffalo",
+    "isp": "ColoUp",
+    "proxy": "http://162.223.90.130:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.203.28.43:80"
   }
 ]
