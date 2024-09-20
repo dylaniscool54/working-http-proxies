@@ -30,12 +30,6 @@
     "proxy": "http://5.161.103.113:80"
   },
   {
-    "country": "Germany",
-    "city": "Falkenstein",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.202.19.18:80"
-  },
-  {
     "country": "United States",
     "city": "Buffalo",
     "isp": "ColoUp",
@@ -46,12 +40,6 @@
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.255.67:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "Gosport",
-    "isp": "Redstation Limited",
-    "proxy": "http://82.102.10.253:80"
   },
   {
     "country": "Germany",
@@ -78,12 +66,6 @@
     "proxy": "http://165.232.129.150:80"
   },
   {
-    "country": "United States",
-    "city": "Los Angeles",
-    "isp": "Cogent Communications",
-    "proxy": "http://154.64.226.138:80"
-  },
-  {
     "country": "Hong Kong",
     "city": "Central",
     "isp": "Vantiva USA Shared Services Inc.",
@@ -102,15 +84,21 @@
     "proxy": "http://141.145.214.176:80"
   },
   {
+    "country": "Ireland",
+    "city": "Dublin",
+    "isp": "OVH SAS",
+    "proxy": "http://51.254.78.223:80"
+  },
+  {
+    "country": "United States",
+    "city": "Los Angeles",
+    "isp": "Cogent Communications",
+    "proxy": "http://154.64.226.138:80"
+  },
+  {
     "country": "United States",
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
     "proxy": "http://144.126.216.57:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
   }
 ]
