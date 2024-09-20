@@ -102,12 +102,6 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "United States",
-    "city": "San Jose",
-    "isp": "Cnservers LLC",
-    "proxy": "http://154.208.10.126:80"
-  },
-  {
     "country": "Singapore",
     "city": "Singapore",
     "isp": "Akamai Technologies, Inc.",
@@ -148,5 +142,17 @@
     "city": "Buffalo",
     "isp": "ColoUp",
     "proxy": "http://162.223.90.130:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Magura District",
+    "isp": "Jessore IT",
+    "proxy": "http://103.159.188.250:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.255.67:80"
   }
 ]
