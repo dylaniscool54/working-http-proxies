@@ -54,12 +54,6 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "Hong Kong",
-    "city": "Central",
-    "isp": "Vantiva USA Shared Services Inc.",
-    "proxy": "http://157.254.53.50:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
@@ -102,10 +96,16 @@
     "proxy": "http://51.89.134.68:80"
   },
   {
-    "country": "United States",
-    "city": "Los Angeles",
-    "isp": "Cogent Communications",
-    "proxy": "http://154.64.226.138:80"
+    "country": "United Kingdom",
+    "city": "Gosport",
+    "isp": "Redstation Limited",
+    "proxy": "http://82.102.10.253:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Gopālganj",
+    "isp": "G Net Service",
+    "proxy": "http://103.253.103.50:80"
   },
   {
     "country": "Japan",
@@ -114,21 +114,9 @@
     "proxy": "http://111.238.48.221:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "Gosport",
-    "isp": "Redstation Limited",
-    "proxy": "http://82.102.10.253:80"
-  },
-  {
-    "country": "Bangladesh",
-    "city": "Dhaka",
-    "isp": "Mahfujul Haque t/a Expert Online",
-    "proxy": "http://103.86.109.38:80"
-  },
-  {
-    "country": "Bangladesh",
-    "city": "Gopālganj",
-    "isp": "G Net Service",
-    "proxy": "http://103.253.103.50:80"
+    "country": "Japan",
+    "city": "Kyoto",
+    "isp": "KAGOYA JAPAN Inc.",
+    "proxy": "http://133.18.234.13:80"
   }
 ]
