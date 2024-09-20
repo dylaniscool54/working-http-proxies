@@ -60,12 +60,6 @@
     "proxy": "http://103.86.109.38:80"
   },
   {
-    "country": "Hong Kong",
-    "city": "Kwai Chung",
-    "isp": "Hong Kong Broadband Network Ltd",
-    "proxy": "http://14.199.30.127:80"
-  },
-  {
     "country": "Argentina",
     "city": "Córdoba",
     "isp": "Sondatech S.A.S.",
@@ -88,5 +82,17 @@
     "city": "Kawasaki",
     "isp": "Kddi Corporation",
     "proxy": "http://111.238.48.221:80"
+  },
+  {
+    "country": "United States",
+    "city": "Cedar Knolls",
+    "isp": "Akamai Technologies, Inc.",
+    "proxy": "http://143.42.191.48:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.203.28.43:80"
   }
 ]
