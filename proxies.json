@@ -94,5 +94,11 @@
     "city": "Falkenstein",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://116.202.19.18:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Berlin",
+    "isp": "IONOS SE",
+    "proxy": "http://85.215.64.49:80"
   }
 ]
