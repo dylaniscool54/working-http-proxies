@@ -84,12 +84,6 @@
     "proxy": "http://87.248.129.26:80"
   },
   {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://144.126.216.57:80"
-  },
-  {
     "country": "Germany",
     "city": "Berlin",
     "isp": "IONOS SE",
@@ -126,12 +120,6 @@
     "proxy": "http://82.102.10.253:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.134.65:80"
-  },
-  {
     "country": "United States",
     "city": "Buffalo",
     "isp": "ColoUp",
@@ -154,5 +142,11 @@
     "city": "San Jose",
     "isp": "Cnservers LLC",
     "proxy": "http://154.208.10.126:80"
+  },
+  {
+    "country": "Nepal",
+    "city": "Kathmandu",
+    "isp": "Kaopu Cloud HK Limited",
+    "proxy": "http://38.54.71.67:80"
   }
 ]
