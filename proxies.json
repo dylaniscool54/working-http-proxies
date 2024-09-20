@@ -112,5 +112,11 @@
     "city": "San Jose",
     "isp": "Cnservers LLC",
     "proxy": "http://154.208.10.126:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Akari Networks Limited",
+    "proxy": "http://103.190.179.27:80"
   }
 ]
