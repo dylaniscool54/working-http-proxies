@@ -36,12 +36,6 @@
     "proxy": "http://154.64.226.138:80"
   },
   {
-    "country": "Hong Kong",
-    "city": "Central",
-    "isp": "Vantiva USA Shared Services Inc.",
-    "proxy": "http://157.254.53.50:80"
-  },
-  {
     "country": "United States",
     "city": "Buffalo",
     "isp": "ColoUp",
@@ -64,11 +58,5 @@
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
     "proxy": "http://165.232.129.150:80"
-  },
-  {
-    "country": "France",
-    "city": "Paris",
-    "isp": "Oracle Corporation",
-    "proxy": "http://141.145.214.176:80"
   }
 ]
