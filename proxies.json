@@ -78,12 +78,6 @@
     "proxy": "http://154.64.226.138:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.203.28.43:80"
-  },
-  {
     "country": "Hong Kong",
     "city": "Central",
     "isp": "Vantiva USA Shared Services Inc.",
@@ -114,9 +108,15 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://165.232.129.150:80"
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "isp": "Mahfujul Haque t/a Expert Online",
+    "proxy": "http://103.86.109.38:80"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "isp": "PT IndoInternet",
+    "proxy": "http://117.54.114.102:80"
   }
 ]
