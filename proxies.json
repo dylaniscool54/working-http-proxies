@@ -96,15 +96,21 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://144.126.216.57:80"
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.255.67:80"
   },
   {
-    "country": "Ireland",
-    "city": "Dublin",
-    "isp": "OVH SAS",
-    "proxy": "http://51.254.78.223:80"
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "isp": "ITEL",
+    "proxy": "http://87.248.129.26:80"
+  },
+  {
+    "country": "France",
+    "city": "Paris",
+    "isp": "Oracle Corporation",
+    "proxy": "http://141.145.214.176:80"
   }
 ]
