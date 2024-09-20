@@ -108,9 +108,21 @@
     "proxy": "http://51.89.255.67:80"
   },
   {
-    "country": "Indonesia",
-    "city": "Jakarta",
-    "isp": "PT IndoInternet",
-    "proxy": "http://117.54.114.33:80"
+    "country": "France",
+    "city": "Gravelines",
+    "isp": "OVH SAS",
+    "proxy": "http://145.239.54.185:80"
+  },
+  {
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://165.232.129.150:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.134.69:80"
   }
 ]
