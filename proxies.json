@@ -99,18 +99,18 @@
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
+    "proxy": "http://51.89.134.69:80"
+  },
+  {
+    "country": "Japan",
+    "city": "Kawasaki",
+    "isp": "Kddi Corporation",
+    "proxy": "http://111.238.48.221:80"
   },
   {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
-    "proxy": "http://51.89.134.69:80"
-  },
-  {
-    "country": "Indonesia",
-    "city": "Jakarta",
-    "isp": "PT IndoInternet",
-    "proxy": "http://117.54.114.33:80"
+    "proxy": "http://51.89.255.67:80"
   }
 ]
