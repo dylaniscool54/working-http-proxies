@@ -84,22 +84,10 @@
     "proxy": "http://162.223.90.130:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://5.75.130.49:80"
-  },
-  {
     "country": "Iran",
     "city": "Tehran",
     "isp": "Pars Parva System Ltd",
     "proxy": "http://130.185.77.63:80"
-  },
-  {
-    "country": "United States",
-    "city": "Dallas",
-    "isp": "Limestone Networks, Inc.",
-    "proxy": "http://63.143.57.119:80"
   },
   {
     "country": "United Kingdom",
@@ -130,12 +118,6 @@
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://116.203.28.43:80"
-  },
-  {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Akari Networks Limited",
-    "proxy": "http://103.190.179.27:80"
   },
   {
     "country": "United Kingdom",
