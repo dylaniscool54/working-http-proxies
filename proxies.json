@@ -108,12 +108,6 @@
     "proxy": "http://130.185.77.63:80"
   },
   {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://144.126.216.57:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
@@ -136,6 +130,12 @@
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.255.67:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Falkenstein",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.202.19.18:80"
   },
   {
     "country": "United States",
