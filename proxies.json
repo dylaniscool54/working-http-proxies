@@ -96,22 +96,10 @@
     "proxy": "http://162.223.90.130:80"
   },
   {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Akari Networks Limited",
-    "proxy": "http://103.190.179.27:80"
-  },
-  {
     "country": "France",
     "city": "Gravelines",
     "isp": "OVH SAS",
     "proxy": "http://145.239.54.185:80"
-  },
-  {
-    "country": "Bangladesh",
-    "city": "Gopālganj",
-    "isp": "G Net Service",
-    "proxy": "http://103.253.103.50:80"
   },
   {
     "country": "United Kingdom",
@@ -126,21 +114,15 @@
     "proxy": "http://190.103.177.131:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
+    "country": "United States",
+    "city": "Los Angeles",
+    "isp": "Cogent Communications",
+    "proxy": "http://154.39.83.100:80"
   },
   {
     "country": "United States",
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
     "proxy": "http://165.232.129.150:80"
-  },
-  {
-    "country": "Ireland",
-    "city": "Dublin",
-    "isp": "OVH SAS",
-    "proxy": "http://51.254.78.223:80"
   }
 ]
