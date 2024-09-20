@@ -66,12 +66,6 @@
     "proxy": "http://157.254.53.50:80"
   },
   {
-    "country": "France",
-    "city": "Paris",
-    "isp": "Oracle Corporation",
-    "proxy": "http://141.145.214.176:80"
-  },
-  {
     "country": "Germany",
     "city": "Berlin",
     "isp": "IONOS SE",
@@ -126,9 +120,15 @@
     "proxy": "http://51.89.134.69:80"
   },
   {
-    "country": "Ireland",
-    "city": "Dublin",
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://144.126.216.57:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
     "isp": "OVH SAS",
-    "proxy": "http://51.254.78.223:80"
+    "proxy": "http://51.89.134.68:80"
   }
 ]
