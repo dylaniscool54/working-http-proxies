@@ -102,9 +102,9 @@
     "proxy": "http://144.126.216.57:80"
   },
   {
-    "country": "Japan",
-    "city": "Tokyo",
-    "isp": "Oracle Corporation",
-    "proxy": "http://132.226.14.0:80"
+    "country": "Germany",
+    "city": "Berlin",
+    "isp": "IONOS SE",
+    "proxy": "http://85.215.64.49:80"
   }
 ]
