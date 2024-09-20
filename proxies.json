@@ -30,22 +30,10 @@
     "proxy": "http://91.107.252.136:80"
   },
   {
-    "country": "United Arab Emirates",
-    "city": "Dubai",
-    "isp": "ITEL",
-    "proxy": "http://87.248.129.26:80"
-  },
-  {
     "country": "France",
     "city": "Gravelines",
     "isp": "OVH SAS",
     "proxy": "http://145.239.54.185:80"
-  },
-  {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://165.232.129.150:80"
   },
   {
     "country": "United Kingdom",
@@ -66,18 +54,6 @@
     "proxy": "http://5.75.130.49:80"
   },
   {
-    "country": "United States",
-    "city": "San Jose",
-    "isp": "Cnservers LLC",
-    "proxy": "http://154.208.10.126:80"
-  },
-  {
-    "country": "Ireland",
-    "city": "Dublin",
-    "isp": "OVH SAS",
-    "proxy": "http://51.254.78.223:80"
-  },
-  {
     "country": "Iran",
     "city": "Tehran",
     "isp": "Parsian Technology Innovative Solution Co., PJS.",
@@ -88,12 +64,6 @@
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.134.69:80"
-  },
-  {
-    "country": "Bangladesh",
-    "city": "Dhaka",
-    "isp": "Mahfujul Haque t/a Expert Online",
-    "proxy": "http://103.86.109.38:80"
   },
   {
     "country": "Germany",
@@ -118,5 +88,17 @@
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
     "proxy": "http://144.126.216.57:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "isp": "Mahfujul Haque t/a Expert Online",
+    "proxy": "http://103.86.109.38:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
   }
 ]
