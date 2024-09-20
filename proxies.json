@@ -96,22 +96,10 @@
     "proxy": "http://82.102.10.253:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://5.75.130.49:80"
-  },
-  {
     "country": "United Arab Emirates",
     "city": "Dubai",
     "isp": "G-Core Labs S.A.",
     "proxy": "http://109.61.42.223:80"
-  },
-  {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.203.28.43:80"
   },
   {
     "country": "Bangladesh",
@@ -120,22 +108,10 @@
     "proxy": "http://103.159.188.250:80"
   },
   {
-    "country": "United States",
-    "city": "San Jose",
-    "isp": "Cnservers LLC",
-    "proxy": "http://154.208.10.126:80"
-  },
-  {
     "country": "Argentina",
     "city": "Córdoba",
     "isp": "Sondatech S.A.S.",
     "proxy": "http://190.103.177.131:80"
-  },
-  {
-    "country": "Germany",
-    "city": "Berlin",
-    "isp": "IONOS SE",
-    "proxy": "http://85.215.64.49:80"
   },
   {
     "country": "Japan",
@@ -148,5 +124,23 @@
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.255.67:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Berlin",
+    "isp": "IONOS SE",
+    "proxy": "http://85.215.64.49:80"
+  },
+  {
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://165.232.129.150:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Akamai Technologies, Inc.",
+    "proxy": "http://143.42.66.91:80"
   }
 ]
