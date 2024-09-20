@@ -78,12 +78,6 @@
     "proxy": "http://82.102.10.253:80"
   },
   {
-    "country": "United Arab Emirates",
-    "city": "Dubai",
-    "isp": "ITEL",
-    "proxy": "http://87.248.129.26:80"
-  },
-  {
     "country": "Finland",
     "city": "Helsinki",
     "isp": "Hetzner Online GmbH",
@@ -94,6 +88,12 @@
     "city": "Berlin",
     "isp": "IONOS SE",
     "proxy": "http://85.215.64.49:80"
+  },
+  {
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://144.126.216.57:80"
   },
   {
     "country": "United States",
