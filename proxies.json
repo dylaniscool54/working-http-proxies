@@ -78,12 +78,6 @@
     "proxy": "http://144.126.216.57:80"
   },
   {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Akari Networks Limited",
-    "proxy": "http://103.190.179.27:80"
-  },
-  {
     "country": "Finland",
     "city": "Helsinki",
     "isp": "Hetzner Online GmbH",
@@ -94,6 +88,12 @@
     "city": "Dhaka",
     "isp": "Mahfujul Haque t/a Expert Online",
     "proxy": "http://103.86.109.38:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Akari Networks Limited",
+    "proxy": "http://103.190.179.27:80"
   },
   {
     "country": "United States",
