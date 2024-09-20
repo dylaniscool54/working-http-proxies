@@ -66,12 +66,6 @@
     "proxy": "http://51.89.255.67:80"
   },
   {
-    "country": "United States",
-    "city": "Los Angeles",
-    "isp": "Cogent Communications",
-    "proxy": "http://154.64.226.138:80"
-  },
-  {
     "country": "Argentina",
     "city": "Córdoba",
     "isp": "Sondatech S.A.S.",
@@ -82,12 +76,6 @@
     "city": "Buffalo",
     "isp": "ColoUp",
     "proxy": "http://162.223.90.130:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "Gosport",
-    "isp": "Redstation Limited",
-    "proxy": "http://82.102.10.253:80"
   },
   {
     "country": "United States",
@@ -102,21 +90,9 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "Bangladesh",
-    "city": "Dhaka",
-    "isp": "Mahfujul Haque t/a Expert Online",
-    "proxy": "http://103.86.109.38:80"
-  },
-  {
     "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://144.126.216.57:80"
-  },
-  {
-    "country": "Ireland",
-    "city": "Dublin",
-    "isp": "OVH SAS",
-    "proxy": "http://51.254.78.223:80"
+    "city": "Los Angeles",
+    "isp": "Cogent Communications",
+    "proxy": "http://154.64.226.138:80"
   }
 ]
