@@ -48,12 +48,6 @@
     "proxy": "http://109.61.42.223:80"
   },
   {
-    "country": "Germany",
-    "city": "Berlin",
-    "isp": "IONOS SE",
-    "proxy": "http://85.215.64.49:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
@@ -70,12 +64,6 @@
     "city": "Ashburn",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://5.161.103.113:80"
-  },
-  {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.203.28.43:80"
   },
   {
     "country": "United States",
