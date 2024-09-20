@@ -84,22 +84,10 @@
     "proxy": "http://116.203.28.43:80"
   },
   {
-    "country": "United States",
-    "city": "Buffalo",
-    "isp": "ColoUp",
-    "proxy": "http://162.223.90.130:80"
-  },
-  {
     "country": "Germany",
     "city": "Berlin",
     "isp": "IONOS SE",
     "proxy": "http://85.215.64.49:80"
-  },
-  {
-    "country": "United States",
-    "city": "San Jose",
-    "isp": "Cnservers LLC",
-    "proxy": "http://154.208.10.126:80"
   },
   {
     "country": "United Kingdom",
@@ -108,21 +96,27 @@
     "proxy": "http://51.89.255.67:80"
   },
   {
-    "country": "Hong Kong",
-    "city": "Kwai Chung",
-    "isp": "Hong Kong Broadband Network Ltd",
-    "proxy": "http://14.199.30.127:80"
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "isp": "ITEL",
+    "proxy": "http://87.248.129.26:80"
+  },
+  {
+    "country": "United States",
+    "city": "Buffalo",
+    "isp": "ColoUp",
+    "proxy": "http://162.223.90.130:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Gopālganj",
+    "isp": "G Net Service",
+    "proxy": "http://103.253.103.50:80"
   },
   {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.14.70:80"
-  },
-  {
-    "country": "United Arab Emirates",
-    "city": "Dubai",
-    "isp": "ITEL",
-    "proxy": "http://87.248.129.26:80"
   }
 ]
