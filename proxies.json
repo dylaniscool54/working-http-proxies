@@ -78,12 +78,6 @@
     "proxy": "http://82.102.10.253:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
-  },
-  {
     "country": "Japan",
     "city": "Kawasaki",
     "isp": "Kddi Corporation",
@@ -102,9 +96,15 @@
     "proxy": "http://154.64.226.138:80"
   },
   {
-    "country": "Bangladesh",
-    "city": "Dhaka",
-    "isp": "Mahfujul Haque t/a Expert Online",
-    "proxy": "http://103.86.109.38:80"
+    "country": "Germany",
+    "city": "Berlin",
+    "isp": "IONOS SE",
+    "proxy": "http://85.215.64.49:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
   }
 ]
