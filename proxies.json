@@ -108,16 +108,16 @@
     "proxy": "http://116.203.28.43:80"
   },
   {
-    "country": "Japan",
-    "city": "Kawasaki",
-    "isp": "Kddi Corporation",
-    "proxy": "http://111.238.48.221:80"
-  },
-  {
     "country": "Singapore",
     "city": "Singapore",
     "isp": "Akari Networks Limited",
     "proxy": "http://103.190.179.27:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Frankfurt am Main",
+    "isp": "Oracle Corporation",
+    "proxy": "http://193.122.61.167:80"
   },
   {
     "country": "Argentina",
@@ -126,9 +126,9 @@
     "proxy": "http://190.103.177.131:80"
   },
   {
-    "country": "Germany",
-    "city": "Frankfurt am Main",
-    "isp": "Oracle Corporation",
-    "proxy": "http://193.122.61.167:80"
+    "country": "Nepal",
+    "city": "Kathmandu",
+    "isp": "Kaopu Cloud HK Limited",
+    "proxy": "http://38.54.71.67:80"
   }
 ]
