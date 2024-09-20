@@ -108,12 +108,6 @@
     "proxy": "http://154.64.226.138:80"
   },
   {
-    "country": "Finland",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://65.108.207.6:80"
-  },
-  {
     "country": "Bangladesh",
     "city": "Magura District",
     "isp": "Jessore IT",
@@ -124,5 +118,11 @@
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.134.68:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
   }
 ]
