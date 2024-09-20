@@ -102,9 +102,27 @@
     "proxy": "http://87.248.129.26:80"
   },
   {
-    "country": "Japan",
-    "city": "Kawasaki",
-    "isp": "Kddi Corporation",
-    "proxy": "http://111.238.48.221:80"
+    "country": "Finland",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://65.108.207.6:80"
+  },
+  {
+    "country": "France",
+    "city": "Roubaix",
+    "isp": "OVH SAS",
+    "proxy": "http://152.228.154.20:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.134.65:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.134.68:80"
   }
 ]
