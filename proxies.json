@@ -100,29 +100,5 @@
     "city": "Singapore",
     "isp": "OVH SAS",
     "proxy": "http://51.79.170.92:80"
-  },
-  {
-    "country": "France",
-    "city": "Gravelines",
-    "isp": "OVH SAS",
-    "proxy": "http://145.239.54.185:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
-  },
-  {
-    "country": "United States",
-    "city": "Buffalo",
-    "isp": "ColoCrossing",
-    "proxy": "http://198.12.85.211:80"
-  },
-  {
-    "country": "Bangladesh",
-    "city": "Magura District",
-    "isp": "Jessore IT",
-    "proxy": "http://103.159.188.250:80"
   }
 ]
