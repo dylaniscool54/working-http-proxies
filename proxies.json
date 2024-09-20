@@ -30,22 +30,10 @@
     "proxy": "http://77.83.246.25:80"
   },
   {
-    "country": "United States",
-    "city": "Buffalo",
-    "isp": "ColoUp",
-    "proxy": "http://162.223.90.130:80"
-  },
-  {
     "country": "Iran",
     "city": "Tehran",
     "isp": "Parsian Technology Innovative Solution Co., PJS.",
     "proxy": "http://80.249.112.162:80"
-  },
-  {
-    "country": "Germany",
-    "city": "Berlin",
-    "isp": "IONOS SE",
-    "proxy": "http://85.215.64.49:80"
   },
   {
     "country": "Hong Kong",
@@ -72,12 +60,6 @@
     "proxy": "http://145.239.54.185:80"
   },
   {
-    "country": "Bangladesh",
-    "city": "Dhaka",
-    "isp": "Mahfujul Haque t/a Expert Online",
-    "proxy": "http://103.86.109.38:80"
-  },
-  {
     "country": "Argentina",
     "city": "Córdoba",
     "isp": "Sondatech S.A.S.",
@@ -102,9 +84,21 @@
     "proxy": "http://111.238.48.221:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
+    "country": "United States",
+    "city": "Buffalo",
+    "isp": "ColoUp",
+    "proxy": "http://162.223.90.130:80"
+  },
+  {
+    "country": "France",
+    "city": "Roubaix",
     "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
+    "proxy": "http://152.228.154.20:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "isp": "Mahfujul Haque t/a Expert Online",
+    "proxy": "http://103.86.109.38:80"
   }
 ]
