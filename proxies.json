@@ -60,12 +60,6 @@
     "proxy": "http://80.249.112.162:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.134.65:80"
-  },
-  {
     "country": "Germany",
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
@@ -79,15 +73,15 @@
   },
   {
     "country": "United States",
-    "city": "Dallas",
-    "isp": "Limestone Networks, Inc.",
-    "proxy": "http://63.143.57.119:80"
-  },
-  {
-    "country": "United States",
     "city": "Cedar Knolls",
     "isp": "Akamai Technologies, Inc.",
     "proxy": "http://143.42.191.48:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
   },
   {
     "country": "United States",
