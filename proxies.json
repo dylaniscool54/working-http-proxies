@@ -118,5 +118,29 @@
     "city": "Singapore",
     "isp": "OVH SAS",
     "proxy": "http://51.79.170.92:80"
+  },
+  {
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://165.232.129.150:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Akari Networks Limited",
+    "proxy": "http://103.190.179.27:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
+  },
+  {
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://144.126.216.57:80"
   }
 ]
