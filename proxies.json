@@ -96,15 +96,33 @@
     "proxy": "http://165.232.129.150:80"
   },
   {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Oracle Corporation",
-    "proxy": "http://158.178.246.35:80"
-  },
-  {
     "country": "Nepal",
     "city": "Kathmandu",
     "isp": "Kaopu Cloud HK Limited",
     "proxy": "http://38.54.71.67:80"
+  },
+  {
+    "country": "Finland",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://65.108.207.6:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.203.28.43:80"
+  },
+  {
+    "country": "United States",
+    "city": "Cedar Knolls",
+    "isp": "Akamai Technologies, Inc.",
+    "proxy": "http://143.42.191.48:80"
+  },
+  {
+    "country": "Japan",
+    "city": "Kawasaki",
+    "isp": "Kddi Corporation",
+    "proxy": "http://111.238.48.221:80"
   }
 ]
