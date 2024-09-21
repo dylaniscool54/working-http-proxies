@@ -100,5 +100,11 @@
     "city": "Singapore",
     "isp": "Oracle Corporation",
     "proxy": "http://158.178.246.35:80"
+  },
+  {
+    "country": "Nepal",
+    "city": "Kathmandu",
+    "isp": "Kaopu Cloud HK Limited",
+    "proxy": "http://38.54.71.67:80"
   }
 ]
