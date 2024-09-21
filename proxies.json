@@ -96,6 +96,12 @@
     "proxy": "http://162.223.90.130:80"
   },
   {
+    "country": "United States",
+    "city": "San Jose",
+    "isp": "Cnservers LLC",
+    "proxy": "http://154.208.10.126:80"
+  },
+  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
@@ -103,14 +109,14 @@
   },
   {
     "country": "United States",
-    "city": "San Jose",
-    "isp": "Cnservers LLC",
-    "proxy": "http://154.208.10.126:80"
-  },
-  {
-    "country": "United States",
     "city": "Cedar Knolls",
     "isp": "Akamai Technologies, Inc.",
     "proxy": "http://143.42.191.48:80"
+  },
+  {
+    "country": "Argentina",
+    "city": "Córdoba",
+    "isp": "Sondatech S.A.S.",
+    "proxy": "http://190.103.177.131:80"
   }
 ]
