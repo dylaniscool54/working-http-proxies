@@ -78,15 +78,15 @@
     "proxy": "http://116.203.28.43:80"
   },
   {
+    "country": "United States",
+    "city": "San Jose",
+    "isp": "Cnservers LLC",
+    "proxy": "http://154.208.10.126:80"
+  },
+  {
     "country": "Bangladesh",
     "city": "Magura District",
     "isp": "Jessore IT",
     "proxy": "http://103.159.188.250:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
   }
 ]
