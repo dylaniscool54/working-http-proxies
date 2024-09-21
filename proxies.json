@@ -12,12 +12,6 @@
     "proxy": "http://51.89.255.67:80"
   },
   {
-    "country": "Hong Kong",
-    "city": "Central",
-    "isp": "Vantiva USA Shared Services Inc.",
-    "proxy": "http://157.254.53.50:80"
-  },
-  {
     "country": "Germany",
     "city": "Berlin",
     "isp": "IONOS SE",
@@ -96,21 +90,15 @@
     "proxy": "http://51.89.14.70:80"
   },
   {
-    "country": "Japan",
-    "city": "Tokyo",
-    "isp": "Oracle Corporation",
-    "proxy": "http://132.226.14.0:80"
-  },
-  {
     "country": "United States",
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
     "proxy": "http://165.232.129.150:80"
   },
   {
-    "country": "Finland",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://65.108.207.6:80"
+    "country": "Japan",
+    "city": "Tokyo",
+    "isp": "Oracle Corporation",
+    "proxy": "http://132.226.14.0:80"
   }
 ]
