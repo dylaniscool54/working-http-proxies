@@ -118,5 +118,17 @@
     "city": "Magura District",
     "isp": "Jessore IT",
     "proxy": "http://103.159.188.250:80"
+  },
+  {
+    "country": "Poland",
+    "city": "Warsaw",
+    "isp": "Global Connectivity Solutions LLP",
+    "proxy": "http://77.83.246.25:80"
+  },
+  {
+    "country": "United States",
+    "city": "San Jose",
+    "isp": "Cnservers LLC",
+    "proxy": "http://154.208.10.126:80"
   }
 ]
