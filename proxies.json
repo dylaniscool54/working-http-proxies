@@ -6,12 +6,6 @@
     "proxy": "http://91.107.252.136:80"
   },
   {
-    "country": "Germany",
-    "city": "Berlin",
-    "isp": "IONOS SE",
-    "proxy": "http://85.215.64.49:80"
-  },
-  {
     "country": "United Arab Emirates",
     "city": "Dubai",
     "isp": "G-Core Labs S.A.",
@@ -54,12 +48,6 @@
     "proxy": "http://162.223.90.130:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.255.67:80"
-  },
-  {
     "country": "Germany",
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
@@ -72,12 +60,6 @@
     "proxy": "http://103.86.109.38:80"
   },
   {
-    "country": "United Arab Emirates",
-    "city": "Dubai",
-    "isp": "ITEL",
-    "proxy": "http://87.248.129.26:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "Gosport",
     "isp": "Redstation Limited",
@@ -88,5 +70,17 @@
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.14.70:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Berlin",
+    "isp": "IONOS SE",
+    "proxy": "http://85.215.64.49:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.255.67:80"
   }
 ]
