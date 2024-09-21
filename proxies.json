@@ -126,9 +126,21 @@
     "proxy": "http://141.145.214.176:80"
   },
   {
-    "country": "Indonesia",
-    "city": "Jakarta",
-    "isp": "PT IndoInternet",
-    "proxy": "http://117.54.114.33:80"
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
+  },
+  {
+    "country": "Finland",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://65.108.207.6:80"
+  },
+  {
+    "country": "United States",
+    "city": "Los Angeles",
+    "isp": "Cogent Communications",
+    "proxy": "http://154.64.226.138:80"
   }
 ]
