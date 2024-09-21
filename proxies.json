@@ -60,12 +60,6 @@
     "proxy": "http://80.249.112.162:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
-  },
-  {
     "country": "Finland",
     "city": "Helsinki",
     "isp": "Hetzner Online GmbH",
@@ -73,27 +67,9 @@
   },
   {
     "country": "United States",
-    "city": "Buffalo",
-    "isp": "ColoUp",
-    "proxy": "http://162.223.90.130:80"
-  },
-  {
-    "country": "United States",
-    "city": "Cedar Knolls",
-    "isp": "Akamai Technologies, Inc.",
-    "proxy": "http://143.42.191.48:80"
-  },
-  {
-    "country": "United States",
     "city": "Los Angeles",
     "isp": "Cogent Communications",
     "proxy": "http://154.64.226.138:80"
-  },
-  {
-    "country": "Japan",
-    "city": "Kawasaki",
-    "isp": "Kddi Corporation",
-    "proxy": "http://111.238.48.221:80"
   },
   {
     "country": "Singapore",
@@ -108,15 +84,39 @@
     "proxy": "http://152.228.154.20:80"
   },
   {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Oracle Corporation",
-    "proxy": "http://158.178.246.35:80"
-  },
-  {
     "country": "France",
     "city": "Gravelines",
     "isp": "OVH SAS",
     "proxy": "http://145.239.54.185:80"
+  },
+  {
+    "country": "United States",
+    "city": "Cedar Knolls",
+    "isp": "Akamai Technologies, Inc.",
+    "proxy": "http://143.42.191.48:80"
+  },
+  {
+    "country": "Japan",
+    "city": "Kawasaki",
+    "isp": "Kddi Corporation",
+    "proxy": "http://111.238.48.221:80"
+  },
+  {
+    "country": "United States",
+    "city": "Buffalo",
+    "isp": "ColoUp",
+    "proxy": "http://162.223.90.130:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Magura District",
+    "isp": "Jessore IT",
+    "proxy": "http://103.159.188.250:80"
   }
 ]
