@@ -60,12 +60,6 @@
     "proxy": "http://116.203.28.43:80"
   },
   {
-    "country": "Finland",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://65.108.207.6:80"
-  },
-  {
     "country": "United States",
     "city": "Buffalo",
     "isp": "ColoUp",
@@ -94,5 +88,11 @@
     "city": "Singapore",
     "isp": "Akari Networks Limited",
     "proxy": "http://103.190.179.27:80"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "isp": "PT IndoInternet",
+    "proxy": "http://117.54.114.102:80"
   }
 ]
