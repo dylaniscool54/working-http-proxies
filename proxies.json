@@ -72,15 +72,27 @@
     "proxy": "http://80.249.112.162:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.134.68:80"
-  },
-  {
     "country": "United States",
     "city": "Cedar Knolls",
     "isp": "Akamai Technologies, Inc.",
     "proxy": "http://143.42.191.48:80"
+  },
+  {
+    "country": "France",
+    "city": "Gravelines",
+    "isp": "OVH SAS",
+    "proxy": "http://145.239.54.185:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
+  },
+  {
+    "country": "France",
+    "city": "Paris",
+    "isp": "Oracle Corporation",
+    "proxy": "http://141.145.214.176:80"
   }
 ]
