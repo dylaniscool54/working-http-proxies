@@ -30,12 +30,6 @@
     "proxy": "http://5.161.103.113:80"
   },
   {
-    "country": "Iran",
-    "city": "Tehran",
-    "isp": "Parsian Technology Innovative Solution Co., PJS.",
-    "proxy": "http://80.249.112.162:80"
-  },
-  {
     "country": "Finland",
     "city": "Helsinki",
     "isp": "Aeza International LTD",
@@ -60,12 +54,6 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "Japan",
-    "city": "Kawasaki",
-    "isp": "Kddi Corporation",
-    "proxy": "http://111.238.48.221:80"
-  },
-  {
     "country": "United States",
     "city": "San Jose",
     "isp": "Cnservers LLC",
@@ -82,5 +70,11 @@
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.255.67:80"
+  },
+  {
+    "country": "Iran",
+    "city": "Tehran",
+    "isp": "Parsian Technology Innovative Solution Co., PJS.",
+    "proxy": "http://80.249.112.162:80"
   }
 ]
