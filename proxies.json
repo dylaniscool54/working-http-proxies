@@ -24,12 +24,6 @@
     "proxy": "http://91.107.252.136:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.134.69:80"
-  },
-  {
     "country": "United States",
     "city": "Los Angeles",
     "isp": "Cogent Communications",
@@ -42,12 +36,6 @@
     "proxy": "http://152.228.154.20:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "Gosport",
-    "isp": "Redstation Limited",
-    "proxy": "http://82.102.10.253:80"
-  },
-  {
     "country": "United States",
     "city": "Buffalo",
     "isp": "ColoUp",
@@ -58,5 +46,29 @@
     "city": "Helsinki",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://65.108.207.6:80"
+  },
+  {
+    "country": "Japan",
+    "city": "Kawasaki",
+    "isp": "Kddi Corporation",
+    "proxy": "http://111.238.48.221:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Gosport",
+    "isp": "Redstation Limited",
+    "proxy": "http://82.102.10.253:80"
+  },
+  {
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://144.126.216.57:80"
+  },
+  {
+    "country": "United States",
+    "city": "Cedar Knolls",
+    "isp": "Akamai Technologies, Inc.",
+    "proxy": "http://143.42.191.48:80"
   }
 ]
