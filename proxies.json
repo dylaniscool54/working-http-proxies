@@ -109,12 +109,6 @@
   },
   {
     "country": "United States",
-    "city": "Buffalo",
-    "isp": "ColoUp",
-    "proxy": "http://162.223.90.130:80"
-  },
-  {
-    "country": "United States",
     "city": "San Jose",
     "isp": "Cnservers LLC",
     "proxy": "http://154.208.10.126:80"
@@ -130,5 +124,23 @@
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
     "proxy": "http://144.126.216.57:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Akari Networks Limited",
+    "proxy": "http://103.190.179.27:80"
+  },
+  {
+    "country": "United States",
+    "city": "Buffalo",
+    "isp": "ColoUp",
+    "proxy": "http://162.223.90.130:80"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "isp": "PT IndoInternet",
+    "proxy": "http://117.54.114.102:80"
   }
 ]
