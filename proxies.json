@@ -90,12 +90,6 @@
     "proxy": "http://111.238.48.221:80"
   },
   {
-    "country": "Argentina",
-    "city": "Córdoba",
-    "isp": "Sondatech S.A.S.",
-    "proxy": "http://190.103.177.131:80"
-  },
-  {
     "country": "Bangladesh",
     "city": "Dhaka",
     "isp": "Mahfujul Haque t/a Expert Online",
