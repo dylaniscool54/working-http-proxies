@@ -90,12 +90,6 @@
     "proxy": "http://63.143.57.119:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "Gosport",
-    "isp": "Redstation Limited",
-    "proxy": "http://82.102.10.253:80"
-  },
-  {
     "country": "Japan",
     "city": "Kawasaki",
     "isp": "Kddi Corporation",
@@ -112,5 +106,11 @@
     "city": "Singapore",
     "isp": "Oracle Corporation",
     "proxy": "http://158.178.246.35:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Gosport",
+    "isp": "Redstation Limited",
+    "proxy": "http://82.102.10.253:80"
   }
 ]
