@@ -66,12 +66,6 @@
     "proxy": "http://51.89.14.70:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "Gosport",
-    "isp": "Redstation Limited",
-    "proxy": "http://82.102.10.253:80"
-  },
-  {
     "country": "Germany",
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
@@ -100,5 +94,11 @@
     "city": "Dallas",
     "isp": "Limestone Networks, Inc.",
     "proxy": "http://63.143.57.119:80"
+  },
+  {
+    "country": "United States",
+    "city": "Buffalo",
+    "isp": "ColoUp",
+    "proxy": "http://162.223.90.130:80"
   }
 ]
