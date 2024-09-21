@@ -84,12 +84,6 @@
     "proxy": "http://190.103.177.131:80"
   },
   {
-    "country": "United Arab Emirates",
-    "city": "Dubai",
-    "isp": "ITEL",
-    "proxy": "http://87.248.129.26:80"
-  },
-  {
     "country": "United States",
     "city": "Buffalo",
     "isp": "ColoUp",
@@ -100,5 +94,11 @@
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
     "proxy": "http://144.126.216.57:80"
+  },
+  {
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "isp": "ITEL",
+    "proxy": "http://87.248.129.26:80"
   }
 ]
