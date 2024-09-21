@@ -136,5 +136,17 @@
     "city": "San Jose",
     "isp": "Cnservers LLC",
     "proxy": "http://154.208.10.126:80"
+  },
+  {
+    "country": "Japan",
+    "city": "Tokyo",
+    "isp": "Oracle Corporation",
+    "proxy": "http://132.226.14.0:80"
+  },
+  {
+    "country": "Japan",
+    "city": "Kawasaki",
+    "isp": "Kddi Corporation",
+    "proxy": "http://111.238.48.221:80"
   }
 ]
