@@ -1,59 +1,5 @@
 [
   {
-    "country": "Germany",
-    "city": "Frankfurt Am Main",
-    "isp": "Hetzner Online AG",
-    "proxy": "http://91.107.252.136:80"
-  },
-  {
-    "country": "United Arab Emirates",
-    "city": "Dubai",
-    "isp": "G-Core Labs S.A.",
-    "proxy": "http://109.61.42.223:80"
-  },
-  {
-    "country": "France",
-    "city": "Roubaix",
-    "isp": "OVH SAS",
-    "proxy": "http://152.228.154.20:80"
-  },
-  {
-    "country": "United States",
-    "city": "Ashburn",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://5.161.103.113:80"
-  },
-  {
-    "country": "Finland",
-    "city": "Helsinki",
-    "isp": "Aeza International LTD",
-    "proxy": "http://77.91.70.98:80"
-  },
-  {
-    "country": "Germany",
-    "city": "Berlin",
-    "isp": "IONOS SE",
-    "proxy": "http://85.215.64.49:80"
-  },
-  {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "OVH SAS",
-    "proxy": "http://51.79.170.92:80"
-  },
-  {
-    "country": "Poland",
-    "city": "Warsaw",
-    "isp": "Global Connectivity Solutions LLP",
-    "proxy": "http://77.83.246.25:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.255.67:80"
-  },
-  {
     "country": "United States",
     "city": "Buffalo",
     "isp": "ColoUp",
@@ -66,27 +12,45 @@
     "proxy": "http://80.249.112.162:80"
   },
   {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.255.67:80"
+  },
+  {
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://144.126.216.57:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Gosport",
+    "isp": "Redstation Limited",
+    "proxy": "http://82.102.10.253:80"
+  },
+  {
+    "country": "Finland",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://65.108.207.6:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Berlin",
+    "isp": "IONOS SE",
+    "proxy": "http://85.215.64.49:80"
+  },
+  {
     "country": "Germany",
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://116.203.28.43:80"
   },
   {
-    "country": "United States",
-    "city": "Cedar Knolls",
-    "isp": "Akamai Technologies, Inc.",
-    "proxy": "http://143.42.191.48:80"
-  },
-  {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Akari Networks Limited",
-    "proxy": "http://103.190.179.27:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
+    "country": "France",
+    "city": "Paris",
+    "isp": "Oracle Corporation",
+    "proxy": "http://141.145.214.176:80"
   }
 ]
