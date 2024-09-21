@@ -90,9 +90,15 @@
     "proxy": "http://51.89.134.68:80"
   },
   {
-    "country": "Bangladesh",
-    "city": "Dhaka",
-    "isp": "Mahfujul Haque t/a Expert Online",
-    "proxy": "http://103.86.109.38:80"
+    "country": "United Kingdom",
+    "city": "Gosport",
+    "isp": "Redstation Limited",
+    "proxy": "http://82.102.10.253:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.203.28.43:80"
   }
 ]
