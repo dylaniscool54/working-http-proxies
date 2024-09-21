@@ -54,12 +54,6 @@
     "proxy": "http://116.203.28.43:80"
   },
   {
-    "country": "Bangladesh",
-    "city": "Dhaka",
-    "isp": "Mahfujul Haque t/a Expert Online",
-    "proxy": "http://103.86.109.38:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "Gosport",
     "isp": "Redstation Limited",
@@ -82,5 +76,11 @@
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.255.67:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "isp": "Mahfujul Haque t/a Expert Online",
+    "proxy": "http://103.86.109.38:80"
   }
 ]
