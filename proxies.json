@@ -61,12 +61,6 @@
   },
   {
     "country": "United States",
-    "city": "Buffalo",
-    "isp": "ColoUp",
-    "proxy": "http://162.223.90.130:80"
-  },
-  {
-    "country": "United States",
     "city": "Ashburn",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://5.161.103.113:80"
@@ -100,5 +94,35 @@
     "city": "Kawasaki",
     "isp": "Kddi Corporation",
     "proxy": "http://111.238.48.221:80"
+  },
+  {
+    "country": "France",
+    "city": "Gravelines",
+    "isp": "OVH SAS",
+    "proxy": "http://145.239.54.185:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Gosport",
+    "isp": "Redstation Limited",
+    "proxy": "http://82.102.10.253:80"
+  },
+  {
+    "country": "United States",
+    "city": "Buffalo",
+    "isp": "ColoUp",
+    "proxy": "http://162.223.90.130:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
+  },
+  {
+    "country": "France",
+    "city": "Paris",
+    "isp": "Oracle Corporation",
+    "proxy": "http://141.145.214.176:80"
   }
 ]
