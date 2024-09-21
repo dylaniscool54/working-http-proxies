@@ -96,16 +96,16 @@
     "proxy": "http://14.199.30.127:80"
   },
   {
-    "country": "Japan",
-    "city": "Kawasaki",
-    "isp": "Kddi Corporation",
-    "proxy": "http://111.238.48.221:80"
-  },
-  {
     "country": "Bangladesh",
     "city": "Dhaka",
     "isp": "Mahfujul Haque t/a Expert Online",
     "proxy": "http://103.86.109.38:80"
+  },
+  {
+    "country": "United States",
+    "city": "Buffalo",
+    "isp": "ColoCrossing",
+    "proxy": "http://198.12.85.213:80"
   },
   {
     "country": "France",
