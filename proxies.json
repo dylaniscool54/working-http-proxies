@@ -84,12 +84,6 @@
     "proxy": "http://116.203.28.43:80"
   },
   {
-    "country": "France",
-    "city": "Gravelines",
-    "isp": "OVH SAS",
-    "proxy": "http://145.239.54.185:80"
-  },
-  {
     "country": "United States",
     "city": "Los Angeles",
     "isp": "Cogent Communications",
@@ -106,5 +100,11 @@
     "city": "Córdoba",
     "isp": "Sondatech S.A.S.",
     "proxy": "http://190.103.177.131:80"
+  },
+  {
+    "country": "France",
+    "city": "Gravelines",
+    "isp": "OVH SAS",
+    "proxy": "http://145.239.54.185:80"
   }
 ]
