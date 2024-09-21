@@ -94,5 +94,11 @@
     "city": "Dubai",
     "isp": "ITEL",
     "proxy": "http://87.248.129.26:80"
+  },
+  {
+    "country": "Japan",
+    "city": "Kawasaki",
+    "isp": "Kddi Corporation",
+    "proxy": "http://111.238.48.221:80"
   }
 ]
