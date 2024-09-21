@@ -79,12 +79,6 @@
   },
   {
     "country": "United States",
-    "city": "Los Angeles",
-    "isp": "Cogent Communications",
-    "proxy": "http://154.64.226.138:80"
-  },
-  {
-    "country": "United States",
     "city": "Buffalo",
     "isp": "ColoUp",
     "proxy": "http://162.223.90.130:80"
@@ -100,5 +94,11 @@
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://116.203.28.43:80"
+  },
+  {
+    "country": "Japan",
+    "city": "Kawasaki",
+    "isp": "Kddi Corporation",
+    "proxy": "http://111.238.48.221:80"
   }
 ]
