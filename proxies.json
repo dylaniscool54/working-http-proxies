@@ -84,12 +84,6 @@
     "proxy": "http://82.102.10.253:80"
   },
   {
-    "country": "Japan",
-    "city": "Kawasaki",
-    "isp": "Kddi Corporation",
-    "proxy": "http://111.238.48.221:80"
-  },
-  {
     "country": "Argentina",
     "city": "Córdoba",
     "isp": "Sondatech S.A.S.",
