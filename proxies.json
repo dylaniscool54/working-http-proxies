@@ -24,12 +24,6 @@
     "proxy": "http://80.249.112.162:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "Gosport",
-    "isp": "Redstation Limited",
-    "proxy": "http://82.102.10.253:80"
-  },
-  {
     "country": "United States",
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
@@ -40,5 +34,23 @@
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://116.203.28.43:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Gosport",
+    "isp": "Redstation Limited",
+    "proxy": "http://82.102.10.253:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Frankfurt Am Main",
+    "isp": "Hetzner Online AG",
+    "proxy": "http://91.107.252.136:80"
+  },
+  {
+    "country": "Japan",
+    "city": "Kawasaki",
+    "isp": "Kddi Corporation",
+    "proxy": "http://111.238.48.221:80"
   }
 ]
