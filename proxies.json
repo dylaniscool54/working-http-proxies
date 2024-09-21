@@ -148,11 +148,5 @@
     "city": "Helsinki",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://65.108.207.6:80"
-  },
-  {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://165.232.129.150:80"
   }
 ]
