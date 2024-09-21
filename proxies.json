@@ -108,15 +108,27 @@
     "proxy": "http://165.232.129.150:80"
   },
   {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Oracle Corporation",
-    "proxy": "http://158.178.246.35:80"
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://144.126.216.57:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
+  },
+  {
+    "country": "Japan",
+    "city": "Kawasaki",
+    "isp": "Kddi Corporation",
+    "proxy": "http://111.238.48.221:80"
   },
   {
     "country": "Indonesia",
     "city": "Jakarta",
     "isp": "PT IndoInternet",
-    "proxy": "http://117.54.114.33:80"
+    "proxy": "http://117.54.114.102:80"
   }
 ]
