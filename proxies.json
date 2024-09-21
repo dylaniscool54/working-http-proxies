@@ -57,12 +57,6 @@
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
-    "proxy": "http://51.89.134.65:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
     "proxy": "http://51.89.134.68:80"
   },
   {
@@ -70,12 +64,6 @@
     "city": "Gosport",
     "isp": "Redstation Limited",
     "proxy": "http://82.102.10.253:80"
-  },
-  {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.203.28.43:80"
   },
   {
     "country": "United States",
@@ -96,15 +84,9 @@
     "proxy": "http://154.208.10.126:80"
   },
   {
-    "country": "United States",
-    "city": "Cedar Knolls",
-    "isp": "Akamai Technologies, Inc.",
-    "proxy": "http://143.42.191.48:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
+    "country": "France",
+    "city": "Paris",
+    "isp": "Oracle Corporation",
+    "proxy": "http://141.145.214.176:80"
   }
 ]
