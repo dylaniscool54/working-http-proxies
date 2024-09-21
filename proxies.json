@@ -108,15 +108,15 @@
     "proxy": "http://51.89.134.69:80"
   },
   {
-    "country": "United States",
-    "city": "Buffalo",
-    "isp": "ColoCrossing",
-    "proxy": "http://198.12.85.211:80"
-  },
-  {
     "country": "Germany",
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://116.203.28.43:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.255.67:80"
   }
 ]
