@@ -69,19 +69,7 @@
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
     "proxy": "http://51.89.255.67:80"
-  },
-  {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://144.126.216.57:80"
   },
   {
     "country": "Japan",
@@ -96,15 +84,9 @@
     "proxy": "http://154.208.10.126:80"
   },
   {
-    "country": "Nepal",
-    "city": "Kathmandu",
-    "isp": "Kaopu Cloud HK Limited",
-    "proxy": "http://38.54.71.67:80"
-  },
-  {
-    "country": "Ireland",
-    "city": "Dublin",
-    "isp": "OVH SAS",
-    "proxy": "http://51.254.78.223:80"
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://165.232.129.150:80"
   }
 ]
