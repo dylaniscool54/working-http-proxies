@@ -100,5 +100,11 @@
     "city": "Kathmandu",
     "isp": "Kaopu Cloud HK Limited",
     "proxy": "http://38.54.71.67:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.203.28.43:80"
   }
 ]
