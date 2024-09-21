@@ -42,12 +42,6 @@
     "proxy": "http://87.248.129.26:80"
   },
   {
-    "country": "Iran",
-    "city": "Tehran",
-    "isp": "Parsian Technology Innovative Solution Co., PJS.",
-    "proxy": "http://80.249.112.162:80"
-  },
-  {
     "country": "United States",
     "city": "Buffalo",
     "isp": "ColoUp",
@@ -72,28 +66,10 @@
     "proxy": "http://143.42.191.48:80"
   },
   {
-    "country": "Bangladesh",
-    "city": "Dhaka",
-    "isp": "Mahfujul Haque t/a Expert Online",
-    "proxy": "http://103.86.109.38:80"
-  },
-  {
-    "country": "Hong Kong",
-    "city": "Kwai Chung",
-    "isp": "Hong Kong Broadband Network Ltd",
-    "proxy": "http://14.199.30.127:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.255.67:80"
-  },
-  {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Akari Networks Limited",
-    "proxy": "http://103.190.179.27:80"
   },
   {
     "country": "Finland",
@@ -102,9 +78,33 @@
     "proxy": "http://65.108.207.6:80"
   },
   {
+    "country": "Iran",
+    "city": "Tehran",
+    "isp": "Parsian Technology Innovative Solution Co., PJS.",
+    "proxy": "http://80.249.112.162:80"
+  },
+  {
+    "country": "Hong Kong",
+    "city": "Kwai Chung",
+    "isp": "Hong Kong Broadband Network Ltd",
+    "proxy": "http://14.199.30.127:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Akari Networks Limited",
+    "proxy": "http://103.190.179.27:80"
+  },
+  {
     "country": "France",
     "city": "Paris",
     "isp": "Oracle Corporation",
     "proxy": "http://141.145.214.176:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.134.68:80"
   }
 ]
