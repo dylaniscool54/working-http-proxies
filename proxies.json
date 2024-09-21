@@ -108,12 +108,6 @@
     "proxy": "http://14.199.30.127:80"
   },
   {
-    "country": "Bangladesh",
-    "city": "Dhaka",
-    "isp": "Mahfujul Haque t/a Expert Online",
-    "proxy": "http://103.86.109.38:80"
-  },
-  {
     "country": "Japan",
     "city": "Kawasaki",
     "isp": "Kddi Corporation",
@@ -127,12 +121,6 @@
   },
   {
     "country": "United States",
-    "city": "Buffalo",
-    "isp": "ColoCrossing",
-    "proxy": "http://198.12.85.213:80"
-  },
-  {
-    "country": "United States",
     "city": "San Jose",
     "isp": "Cnservers LLC",
     "proxy": "http://154.208.10.126:80"
@@ -142,5 +130,17 @@
     "city": "Jakarta",
     "isp": "PT IndoInternet",
     "proxy": "http://117.54.114.102:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "isp": "Mahfujul Haque t/a Expert Online",
+    "proxy": "http://103.86.109.38:80"
+  },
+  {
+    "country": "United States",
+    "city": "Cedar Knolls",
+    "isp": "Akamai Technologies, Inc.",
+    "proxy": "http://143.42.191.48:80"
   }
 ]
