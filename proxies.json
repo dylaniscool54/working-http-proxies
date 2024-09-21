@@ -96,12 +96,6 @@
     "proxy": "http://103.86.109.38:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
-  },
-  {
     "country": "United States",
     "city": "Buffalo",
     "isp": "ColoUp",
@@ -112,6 +106,18 @@
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://116.203.28.43:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
+  },
+  {
+    "country": "United States",
+    "city": "Los Angeles",
+    "isp": "Cogent Communications",
+    "proxy": "http://154.64.226.138:80"
   },
   {
     "country": "Hong Kong",
