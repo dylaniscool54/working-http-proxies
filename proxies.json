@@ -96,28 +96,10 @@
     "proxy": "http://116.203.28.43:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
-  },
-  {
     "country": "Singapore",
     "city": "Singapore",
     "isp": "Akari Networks Limited",
     "proxy": "http://103.190.179.27:80"
-  },
-  {
-    "country": "United States",
-    "city": "San Jose",
-    "isp": "Cnservers LLC",
-    "proxy": "http://154.208.10.126:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.134.69:80"
   },
   {
     "country": "Japan",
@@ -130,6 +112,18 @@
     "city": "Cedar Knolls",
     "isp": "Akamai Technologies, Inc.",
     "proxy": "http://143.42.191.48:80"
+  },
+  {
+    "country": "United States",
+    "city": "San Jose",
+    "isp": "Cnservers LLC",
+    "proxy": "http://154.208.10.126:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.134.69:80"
   },
   {
     "country": "United States",
