@@ -84,12 +84,6 @@
     "proxy": "http://162.223.90.130:80"
   },
   {
-    "country": "United Arab Emirates",
-    "city": "Dubai",
-    "isp": "ITEL",
-    "proxy": "http://87.248.129.26:80"
-  },
-  {
     "country": "Argentina",
     "city": "Córdoba",
     "isp": "Sondatech S.A.S.",
