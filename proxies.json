@@ -1,51 +1,21 @@
 [
   {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.14.70:80"
+  },
+  {
     "country": "Germany",
     "city": "Frankfurt Am Main",
     "isp": "Hetzner Online AG",
     "proxy": "http://91.107.252.136:80"
   },
   {
-    "country": "Poland",
-    "city": "Warsaw",
-    "isp": "Global Connectivity Solutions LLP",
-    "proxy": "http://77.83.246.25:80"
-  },
-  {
     "country": "United States",
-    "city": "Ashburn",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://5.161.103.113:80"
-  },
-  {
-    "country": "France",
-    "city": "Roubaix",
-    "isp": "OVH SAS",
-    "proxy": "http://152.228.154.20:80"
-  },
-  {
-    "country": "Finland",
-    "city": "Helsinki",
-    "isp": "Aeza International LTD",
-    "proxy": "http://77.91.70.98:80"
-  },
-  {
-    "country": "Hong Kong",
-    "city": "Central",
-    "isp": "Vantiva USA Shared Services Inc.",
-    "proxy": "http://157.254.53.50:80"
-  },
-  {
-    "country": "United Arab Emirates",
-    "city": "Dubai",
-    "isp": "G-Core Labs S.A.",
-    "proxy": "http://109.61.42.223:80"
-  },
-  {
-    "country": "United Arab Emirates",
-    "city": "Dubai",
-    "isp": "ITEL",
-    "proxy": "http://87.248.129.26:80"
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://165.232.129.150:80"
   },
   {
     "country": "United Kingdom",
@@ -54,10 +24,10 @@
     "proxy": "http://51.89.255.67:80"
   },
   {
-    "country": "Germany",
-    "city": "Falkenstein",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.202.19.18:80"
+    "country": "Hong Kong",
+    "city": "Central",
+    "isp": "Vantiva USA Shared Services Inc.",
+    "proxy": "http://157.254.53.50:80"
   },
   {
     "country": "Germany",
@@ -72,10 +42,16 @@
     "proxy": "http://82.102.10.253:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.203.28.43:80"
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Akari Networks Limited",
+    "proxy": "http://103.190.179.27:80"
+  },
+  {
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "isp": "G-Core Labs S.A.",
+    "proxy": "http://109.61.42.223:80"
   },
   {
     "country": "Singapore",
@@ -84,40 +60,16 @@
     "proxy": "http://51.79.170.92:80"
   },
   {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.203.28.43:80"
+  },
+  {
     "country": "Iran",
     "city": "Tehran",
     "isp": "Parsian Technology Innovative Solution Co., PJS.",
     "proxy": "http://80.249.112.162:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
-  },
-  {
-    "country": "United States",
-    "city": "Buffalo",
-    "isp": "ColoUp",
-    "proxy": "http://162.223.90.130:80"
-  },
-  {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Akari Networks Limited",
-    "proxy": "http://103.190.179.27:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.134.69:80"
-  },
-  {
-    "country": "Japan",
-    "city": "Kawasaki",
-    "isp": "Kddi Corporation",
-    "proxy": "http://111.238.48.221:80"
   },
   {
     "country": "Argentina",
@@ -126,9 +78,9 @@
     "proxy": "http://190.103.177.131:80"
   },
   {
-    "country": "Finland",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://65.108.207.6:80"
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "isp": "ITEL",
+    "proxy": "http://87.248.129.26:80"
   }
 ]
