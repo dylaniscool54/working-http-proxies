@@ -154,5 +154,11 @@
     "city": "Gopālganj",
     "isp": "G Net Service",
     "proxy": "http://103.253.103.50:80"
+  },
+  {
+    "country": "Finland",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://65.108.207.6:80"
   }
 ]
