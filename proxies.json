@@ -138,12 +138,6 @@
     "proxy": "http://63.143.57.119:80"
   },
   {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Oracle Corporation",
-    "proxy": "http://158.178.246.35:80"
-  },
-  {
     "country": "France",
     "city": "Gravelines",
     "isp": "OVH SAS",
@@ -160,5 +154,11 @@
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
     "proxy": "http://144.126.216.57:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Akari Networks Limited",
+    "proxy": "http://103.190.179.27:80"
   }
 ]
