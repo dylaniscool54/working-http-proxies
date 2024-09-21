@@ -136,11 +136,5 @@
     "city": "Cedar Knolls",
     "isp": "Akamai Technologies, Inc.",
     "proxy": "http://143.42.191.48:80"
-  },
-  {
-    "country": "Indonesia",
-    "city": "Jakarta",
-    "isp": "PT IndoInternet",
-    "proxy": "http://117.54.114.102:80"
   }
 ]
