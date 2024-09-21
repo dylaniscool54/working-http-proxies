@@ -144,22 +144,10 @@
     "proxy": "http://103.253.103.50:80"
   },
   {
-    "country": "Finland",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://65.108.207.6:80"
-  },
-  {
     "country": "United States",
     "city": "Cedar Knolls",
     "isp": "Akamai Technologies, Inc.",
     "proxy": "http://143.42.191.48:80"
-  },
-  {
-    "country": "Germany",
-    "city": "Frankfurt am Main",
-    "isp": "Oracle Corporation",
-    "proxy": "http://193.122.61.167:80"
   },
   {
     "country": "Ireland",
@@ -174,15 +162,9 @@
     "proxy": "http://14.199.30.127:80"
   },
   {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://165.232.129.150:80"
-  },
-  {
-    "country": "United States",
-    "city": "Boydton",
-    "isp": "Microsoft Corporation",
-    "proxy": "http://20.84.109.185:80"
+    "country": "Finland",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://65.108.207.6:80"
   }
 ]
