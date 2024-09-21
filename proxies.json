@@ -66,12 +66,6 @@
     "proxy": "http://162.223.90.130:80"
   },
   {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://165.232.129.150:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "London",
     "isp": "OVH SAS",
@@ -100,17 +94,5 @@
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
     "proxy": "http://144.126.216.57:80"
-  },
-  {
-    "country": "Japan",
-    "city": "Kawasaki",
-    "isp": "Kddi Corporation",
-    "proxy": "http://111.238.48.221:80"
-  },
-  {
-    "country": "United States",
-    "city": "San Jose",
-    "isp": "Cnservers LLC",
-    "proxy": "http://154.208.10.126:80"
   }
 ]
