@@ -78,12 +78,6 @@
     "proxy": "http://63.143.57.119:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.203.28.43:80"
-  },
-  {
     "country": "France",
     "city": "Paris",
     "isp": "Oracle Corporation",
