@@ -60,10 +60,22 @@
     "proxy": "http://77.83.246.25:80"
   },
   {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.203.28.43:80"
+  },
+  {
     "country": "United States",
     "city": "Buffalo",
     "isp": "ColoUp",
     "proxy": "http://162.223.90.130:80"
+  },
+  {
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://144.126.216.57:80"
   },
   {
     "country": "United Kingdom",
@@ -72,9 +84,9 @@
     "proxy": "http://82.102.10.253:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.203.28.43:80"
+    "country": "Japan",
+    "city": "Kyoto",
+    "isp": "KAGOYA JAPAN Inc.",
+    "proxy": "http://133.18.234.13:80"
   }
 ]
