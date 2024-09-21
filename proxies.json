@@ -36,12 +36,6 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.255.67:80"
-  },
-  {
     "country": "Singapore",
     "city": "Singapore",
     "isp": "OVH SAS",
@@ -76,6 +70,18 @@
     "city": "Los Angeles",
     "isp": "Cogent Communications",
     "proxy": "http://154.64.226.138:80"
+  },
+  {
+    "country": "France",
+    "city": "Paris",
+    "isp": "Oracle Corporation",
+    "proxy": "http://141.145.214.176:80"
+  },
+  {
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://144.126.216.57:80"
   },
   {
     "country": "United States",
