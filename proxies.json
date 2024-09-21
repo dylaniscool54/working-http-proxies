@@ -84,12 +84,6 @@
     "proxy": "http://165.232.129.150:80"
   },
   {
-    "country": "Argentina",
-    "city": "Córdoba",
-    "isp": "Sondatech S.A.S.",
-    "proxy": "http://190.103.177.131:80"
-  },
-  {
     "country": "Bangladesh",
     "city": "Dhaka",
     "isp": "Mahfujul Haque t/a Expert Online",
@@ -106,5 +100,17 @@
     "city": "Singapore",
     "isp": "Oracle Corporation",
     "proxy": "http://158.178.246.35:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Magura District",
+    "isp": "Jessore IT",
+    "proxy": "http://103.159.188.250:80"
+  },
+  {
+    "country": "Finland",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://65.108.207.6:80"
   }
 ]
