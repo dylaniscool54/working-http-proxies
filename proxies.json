@@ -70,5 +70,11 @@
     "city": "Córdoba",
     "isp": "Sondatech S.A.S.",
     "proxy": "http://190.103.177.131:80"
+  },
+  {
+    "country": "Japan",
+    "city": "Tokyo",
+    "isp": "Oracle Corporation",
+    "proxy": "http://132.226.14.0:80"
   }
 ]
