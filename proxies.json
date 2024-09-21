@@ -102,12 +102,6 @@
     "proxy": "http://51.89.14.70:80"
   },
   {
-    "country": "Argentina",
-    "city": "Córdoba",
-    "isp": "Sondatech S.A.S.",
-    "proxy": "http://190.103.177.131:80"
-  },
-  {
     "country": "United States",
     "city": "San Jose",
     "isp": "Cnservers LLC",
@@ -121,26 +115,44 @@
   },
   {
     "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://144.126.216.57:80"
-  },
-  {
-    "country": "Singapore",
-    "city": "Singapore",
-    "isp": "Akari Networks Limited",
-    "proxy": "http://103.190.179.27:80"
-  },
-  {
-    "country": "United States",
     "city": "Buffalo",
     "isp": "ColoUp",
     "proxy": "http://162.223.90.130:80"
   },
   {
-    "country": "Indonesia",
-    "city": "Jakarta",
-    "isp": "PT IndoInternet",
-    "proxy": "http://117.54.114.102:80"
+    "country": "Argentina",
+    "city": "Córdoba",
+    "isp": "Sondatech S.A.S.",
+    "proxy": "http://190.103.177.131:80"
+  },
+  {
+    "country": "Hong Kong",
+    "city": "Kwai Chung",
+    "isp": "Hong Kong Broadband Network Ltd",
+    "proxy": "http://14.199.30.127:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.134.69:80"
+  },
+  {
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://165.232.129.150:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.134.68:80"
+  },
+  {
+    "country": "United States",
+    "city": "Los Angeles",
+    "isp": "Cogent Communications",
+    "proxy": "http://154.64.226.138:80"
   }
 ]
