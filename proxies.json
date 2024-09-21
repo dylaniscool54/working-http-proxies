@@ -78,12 +78,6 @@
     "proxy": "http://145.239.54.185:80"
   },
   {
-    "country": "United States",
-    "city": "San Jose",
-    "isp": "Cnservers LLC",
-    "proxy": "http://154.208.10.126:80"
-  },
-  {
     "country": "Argentina",
     "city": "Córdoba",
     "isp": "Sondatech S.A.S.",
@@ -126,6 +120,12 @@
     "proxy": "http://165.232.129.150:80"
   },
   {
+    "country": "Japan",
+    "city": "Kawasaki",
+    "isp": "Kddi Corporation",
+    "proxy": "http://111.238.48.221:80"
+  },
+  {
     "country": "Singapore",
     "city": "Singapore",
     "isp": "Akari Networks Limited",
@@ -136,11 +136,5 @@
     "city": "London",
     "isp": "OVH SAS",
     "proxy": "http://51.89.14.70:80"
-  },
-  {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://144.126.216.57:80"
   }
 ]
