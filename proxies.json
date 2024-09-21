@@ -54,12 +54,6 @@
     "proxy": "http://162.223.90.130:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.203.28.43:80"
-  },
-  {
     "country": "Iran",
     "city": "Tehran",
     "isp": "Parsian Technology Innovative Solution Co., PJS.",
@@ -84,9 +78,15 @@
     "proxy": "http://154.208.10.126:80"
   },
   {
-    "country": "Finland",
-    "city": "Helsinki",
+    "country": "Germany",
+    "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
-    "proxy": "http://65.108.207.6:80"
+    "proxy": "http://116.203.28.43:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "isp": "Mahfujul Haque t/a Expert Online",
+    "proxy": "http://103.86.109.38:80"
   }
 ]
