@@ -120,12 +120,6 @@
     "proxy": "http://51.89.134.69:80"
   },
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.134.68:80"
-  },
-  {
     "country": "United States",
     "city": "Dallas",
     "isp": "Limestone Networks, Inc.",
@@ -178,5 +172,11 @@
     "city": "Dhaka",
     "isp": "Mahfujul Haque t/a Expert Online",
     "proxy": "http://103.86.109.38:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Gopālganj",
+    "isp": "G Net Service",
+    "proxy": "http://103.253.103.50:80"
   }
 ]
