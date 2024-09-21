@@ -106,5 +106,17 @@
     "city": "Cedar Knolls",
     "isp": "Akamai Technologies, Inc.",
     "proxy": "http://143.42.191.48:80"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "OVH SAS",
+    "proxy": "http://51.89.134.65:80"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "isp": "PT IndoInternet",
+    "proxy": "http://117.54.114.33:80"
   }
 ]
