@@ -72,18 +72,6 @@
     "proxy": "http://162.223.90.130:80"
   },
   {
-    "country": "Nepal",
-    "city": "Kathmandu",
-    "isp": "Kaopu Cloud HK Limited",
-    "proxy": "http://38.54.71.67:80"
-  },
-  {
-    "country": "United Kingdom",
-    "city": "London",
-    "isp": "OVH SAS",
-    "proxy": "http://51.89.14.70:80"
-  },
-  {
     "country": "Germany",
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
@@ -94,11 +82,5 @@
     "city": "Gravelines",
     "isp": "OVH SAS",
     "proxy": "http://145.239.54.185:80"
-  },
-  {
-    "country": "France",
-    "city": "Paris",
-    "isp": "Oracle Corporation",
-    "proxy": "http://141.145.214.176:80"
   }
 ]
