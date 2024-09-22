@@ -54,12 +54,6 @@
     "proxy": "http://87.248.129.26:80"
   },
   {
-    "country": "France",
-    "city": "Paris",
-    "isp": "Oracle Corporation",
-    "proxy": "http://141.145.214.176:80"
-  },
-  {
     "country": "Iran",
     "city": "Tehran",
     "isp": "Parsian Technology Innovative Solution Co., PJS.",
@@ -102,15 +96,15 @@
     "proxy": "http://162.223.90.130:80"
   },
   {
+    "country": "United States",
+    "city": "Cedar Knolls",
+    "isp": "Akamai Technologies, Inc.",
+    "proxy": "http://143.42.191.48:80"
+  },
+  {
     "country": "Hong Kong",
     "city": "Kwai Chung",
     "isp": "Hong Kong Broadband Network Ltd",
     "proxy": "http://14.199.30.127:80"
-  },
-  {
-    "country": "Bangladesh",
-    "city": "Magura District",
-    "isp": "Jessore IT",
-    "proxy": "http://103.159.188.250:80"
   }
 ]
