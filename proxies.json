@@ -96,12 +96,6 @@
     "proxy": "http://51.89.14.70:80"
   },
   {
-    "country": "Bangladesh",
-    "city": "Magura District",
-    "isp": "Jessore IT",
-    "proxy": "http://103.159.188.250:80"
-  },
-  {
     "country": "United Kingdom",
     "city": "Gosport",
     "isp": "Redstation Limited",
@@ -114,15 +108,9 @@
     "proxy": "http://65.108.207.6:80"
   },
   {
-    "country": "Nepal",
-    "city": "Kathmandu",
-    "isp": "Kaopu Cloud HK Limited",
-    "proxy": "http://38.54.71.67:80"
-  },
-  {
-    "country": "France",
-    "city": "Gravelines",
+    "country": "United Kingdom",
+    "city": "London",
     "isp": "OVH SAS",
-    "proxy": "http://145.239.54.185:80"
+    "proxy": "http://51.89.134.68:80"
   }
 ]
