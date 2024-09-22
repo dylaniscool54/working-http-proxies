@@ -60,12 +60,6 @@
     "proxy": "http://162.223.90.130:80"
   },
   {
-    "country": "Germany",
-    "city": "Nuremberg",
-    "isp": "Hetzner Online GmbH",
-    "proxy": "http://116.203.28.43:80"
-  },
-  {
     "country": "Singapore",
     "city": "Singapore",
     "isp": "OVH SAS",
@@ -94,5 +88,17 @@
     "city": "Tehran",
     "isp": "Parsian Technology Innovative Solution Co., PJS.",
     "proxy": "http://80.249.112.162:80"
+  },
+  {
+    "country": "Hong Kong",
+    "city": "Kwai Chung",
+    "isp": "Hong Kong Broadband Network Ltd",
+    "proxy": "http://14.199.30.127:80"
+  },
+  {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.203.28.43:80"
   }
 ]
