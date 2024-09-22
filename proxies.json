@@ -91,14 +91,26 @@
   },
   {
     "country": "United States",
+    "city": "San Jose",
+    "isp": "Cnservers LLC",
+    "proxy": "http://154.208.10.126:80"
+  },
+  {
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "isp": "ITEL",
+    "proxy": "http://87.248.129.26:80"
+  },
+  {
+    "country": "United States",
     "city": "Cedar Knolls",
     "isp": "Akamai Technologies, Inc.",
     "proxy": "http://143.42.191.48:80"
   },
   {
     "country": "United States",
-    "city": "San Jose",
-    "isp": "Cnservers LLC",
-    "proxy": "http://154.208.10.126:80"
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://144.126.216.57:80"
   }
 ]
