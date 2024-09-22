@@ -42,12 +42,6 @@
     "proxy": "http://85.215.64.49:80"
   },
   {
-    "country": "United Arab Emirates",
-    "city": "Dubai",
-    "isp": "ITEL",
-    "proxy": "http://87.248.129.26:80"
-  },
-  {
     "country": "Germany",
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
@@ -64,5 +58,17 @@
     "city": "Dhaka",
     "isp": "Mahfujul Haque t/a Expert Online",
     "proxy": "http://103.86.109.38:80"
+  },
+  {
+    "country": "Argentina",
+    "city": "Córdoba",
+    "isp": "Sondatech S.A.S.",
+    "proxy": "http://190.103.177.131:80"
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "isp": "Akari Networks Limited",
+    "proxy": "http://103.190.179.27:80"
   }
 ]
