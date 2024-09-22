@@ -96,9 +96,9 @@
     "proxy": "http://103.86.109.38:80"
   },
   {
-    "country": "Bangladesh",
-    "city": "Magura District",
-    "isp": "Jessore IT",
-    "proxy": "http://103.159.188.250:80"
+    "country": "United States",
+    "city": "Santa Clara",
+    "isp": "DigitalOcean, LLC",
+    "proxy": "http://144.126.216.57:80"
   }
 ]
