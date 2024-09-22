@@ -118,5 +118,11 @@
     "city": "Dublin",
     "isp": "OVH SAS",
     "proxy": "http://51.254.78.223:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Magura District",
+    "isp": "Jessore IT",
+    "proxy": "http://103.159.188.250:80"
   }
 ]
