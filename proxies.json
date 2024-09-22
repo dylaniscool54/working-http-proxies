@@ -58,5 +58,35 @@
     "city": "Mexico City",
     "isp": "ONEPROVIDER",
     "proxy": "http://147.78.1.154:8080"
+  },
+  {
+    "country": "United States",
+    "city": "Los Angeles",
+    "isp": "Multacom Corporation",
+    "proxy": "http://142.171.102.136:3128"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.77:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.93:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.86:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.94:9443"
   }
 ]
