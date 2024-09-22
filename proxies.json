@@ -108,12 +108,6 @@
     "proxy": "http://116.203.28.43:80"
   },
   {
-    "country": "United States",
-    "city": "Santa Clara",
-    "isp": "DigitalOcean, LLC",
-    "proxy": "http://165.232.129.150:80"
-  },
-  {
     "country": "Japan",
     "city": "Kawasaki",
     "isp": "Kddi Corporation",
@@ -124,5 +118,11 @@
     "city": "Nuremberg",
     "isp": "Hetzner Online GmbH",
     "proxy": "http://5.75.130.49:80"
+  },
+  {
+    "country": "Nepal",
+    "city": "Kathmandu",
+    "isp": "Kaopu Cloud HK Limited",
+    "proxy": "http://38.54.71.67:80"
   }
 ]
