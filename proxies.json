@@ -58,5 +58,23 @@
     "city": "Mexico City",
     "isp": "ONEPROVIDER",
     "proxy": "http://147.78.1.154:8080"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.93:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.46:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.42:9443"
   }
 ]
