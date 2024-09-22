@@ -112,5 +112,11 @@
     "city": "Santa Clara",
     "isp": "DigitalOcean, LLC",
     "proxy": "http://144.126.216.57:80"
+  },
+  {
+    "country": "France",
+    "city": "Gravelines",
+    "isp": "OVH SAS",
+    "proxy": "http://145.239.54.185:80"
   }
 ]
