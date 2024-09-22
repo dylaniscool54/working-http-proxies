@@ -1,3 +1,4 @@
 # working-http-proxies
 
-no proxies work so i made this which only displays working free proxies once and for all!
+free http proxies which worked in the last 60 seconds.
+most should work and they should all work for downloading youtube videos
