@@ -16,5 +16,29 @@
     "city": "Montreal",
     "isp": "GloboTech Communications",
     "proxy": "http://67.43.227.227:33009"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.77:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.34:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.42:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Jacksonville",
+    "isp": "Network Solutions, LLC",
+    "proxy": "http://50.6.192.80:3128"
   }
 ]
