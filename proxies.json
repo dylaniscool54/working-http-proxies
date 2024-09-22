@@ -46,5 +46,41 @@
     "city": "Concord",
     "isp": "MCNC",
     "proxy": "http://152.26.231.94:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.46:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.83:9443"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Islington",
+    "isp": "Sohonet Ripe",
+    "proxy": "http://193.203.70.30:3128"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.42:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.86:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.34:9443"
   }
 ]
