@@ -102,6 +102,12 @@
     "proxy": "http://111.238.48.221:80"
   },
   {
+    "country": "Germany",
+    "city": "Nuremberg",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://116.203.28.43:80"
+  },
+  {
     "country": "Bangladesh",
     "city": "Dhaka",
     "isp": "Mahfujul Haque t/a Expert Online",
