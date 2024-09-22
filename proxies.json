@@ -120,12 +120,6 @@
     "proxy": "http://165.232.129.150:80"
   },
   {
-    "country": "Bangladesh",
-    "city": "Magura District",
-    "isp": "Jessore IT",
-    "proxy": "http://103.159.188.250:80"
-  },
-  {
     "country": "Nepal",
     "city": "Kathmandu",
     "isp": "Kaopu Cloud HK Limited",
@@ -148,5 +142,11 @@
     "city": "Kawasaki",
     "isp": "Kddi Corporation",
     "proxy": "http://111.238.48.221:80"
+  },
+  {
+    "country": "Finland",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH",
+    "proxy": "http://65.108.207.6:80"
   }
 ]
