@@ -100,5 +100,11 @@
     "city": "Córdoba",
     "isp": "Sondatech S.A.S.",
     "proxy": "http://190.103.177.131:80"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Magura District",
+    "isp": "Jessore IT",
+    "proxy": "http://103.159.188.250:80"
   }
 ]
