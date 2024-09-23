@@ -46,5 +46,17 @@
     "city": "Mexico City",
     "isp": "ONEPROVIDER",
     "proxy": "http://147.78.1.154:8080"
+  },
+  {
+    "country": "United States",
+    "city": "Jacksonville",
+    "isp": "Network Solutions, LLC",
+    "proxy": "http://50.6.192.80:3128"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.83:9443"
   }
 ]
