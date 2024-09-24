@@ -16,5 +16,23 @@
     "city": "Concord",
     "isp": "MCNC",
     "proxy": "http://152.26.229.77:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Phoenix",
+    "isp": "Secured Servers LLC",
+    "proxy": "http://174.138.171.162:35749"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.47:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.83:9443"
   }
 ]
