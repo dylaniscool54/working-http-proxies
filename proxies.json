@@ -34,5 +34,35 @@
     "city": "Concord",
     "isp": "MCNC",
     "proxy": "http://152.26.231.42:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.47:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Kansas City",
+    "isp": "WholeSale Internet",
+    "proxy": "http://69.197.135.43:40545"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.46:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.34:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.42:9443"
   }
 ]
