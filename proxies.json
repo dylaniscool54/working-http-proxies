@@ -40,5 +40,11 @@
     "city": "Los Angeles",
     "isp": "Multacom Corporation",
     "proxy": "http://74.48.105.68:3128"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.42:9443"
   }
 ]
