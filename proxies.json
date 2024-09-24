@@ -40,5 +40,11 @@
     "city": "Concord",
     "isp": "MCNC",
     "proxy": "http://152.26.231.93:9443"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Newbury",
+    "isp": "Gamma Telecom Holdings Ltd",
+    "proxy": "http://157.231.136.54:8088"
   }
 ]
