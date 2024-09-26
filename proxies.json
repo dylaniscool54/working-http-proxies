@@ -3,37 +3,31 @@
     "country": "United States",
     "city": "Concord",
     "isp": "MCNC",
+    "proxy": "http://152.26.231.94:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.93:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
     "proxy": "http://152.26.229.47:9443"
   },
   {
     "country": "United States",
-    "city": "Los Angeles",
-    "isp": "NetLab Global",
-    "proxy": "http://154.12.50.166:8888"
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.77:9443"
   },
   {
     "country": "United States",
     "city": "Concord",
     "isp": "MCNC",
-    "proxy": "http://152.26.229.86:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.229.93:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.231.83:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.231.86:9443"
+    "proxy": "http://152.26.229.34:9443"
   },
   {
     "country": "United States",
@@ -45,6 +39,6 @@
     "country": "United States",
     "city": "Concord",
     "isp": "MCNC",
-    "proxy": "http://152.26.229.42:9443"
+    "proxy": "http://152.26.231.83:9443"
   }
 ]
