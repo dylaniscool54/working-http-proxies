@@ -22,5 +22,11 @@
     "city": "Reston",
     "isp": "ZSCALER, INC.",
     "proxy": "http://104.129.194.99:8800"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.94:9443"
   }
 ]
