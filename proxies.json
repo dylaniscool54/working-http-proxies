@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.77:9443"
+  }
+]
