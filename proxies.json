@@ -58,5 +58,23 @@
     "city": "Concord",
     "isp": "MCNC",
     "proxy": "http://152.26.229.86:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.86:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.34:9443"
+  },
+  {
+    "country": "Canada",
+    "city": "Toronto",
+    "isp": "HZ Hosting Ltd",
+    "proxy": "http://79.141.167.137:9595"
   }
 ]
