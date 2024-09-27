@@ -58,5 +58,23 @@
     "city": "Concord",
     "isp": "MCNC",
     "proxy": "http://152.26.229.42:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.77:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.77:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Reston",
+    "isp": "ZSCALER, INC.",
+    "proxy": "http://104.129.194.99:8800"
   }
 ]
