@@ -3,25 +3,25 @@
     "country": "United States",
     "city": "Concord",
     "isp": "MCNC",
-    "proxy": "http://152.26.231.42:9443"
+    "proxy": "http://152.26.231.77:9443"
   },
   {
     "country": "United States",
-    "city": "Chicago",
-    "isp": "Packet Host, Inc.",
-    "proxy": "http://86.109.3.28:10010"
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.83:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.86:9443"
   },
   {
     "country": "United States",
     "city": "Concord",
     "isp": "MCNC",
     "proxy": "http://152.26.229.77:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Chicago",
-    "isp": "Packet Host, Inc.",
-    "proxy": "http://86.109.3.28:10011"
   },
   {
     "country": "United States",
@@ -33,48 +33,12 @@
     "country": "United States",
     "city": "Concord",
     "isp": "MCNC",
-    "proxy": "http://152.26.231.83:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.231.94:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.229.34:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.229.47:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.229.42:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
     "proxy": "http://152.26.231.93:9443"
   },
   {
     "country": "United States",
     "city": "Concord",
     "isp": "MCNC",
-    "proxy": "http://152.26.229.46:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.229.83:9443"
+    "proxy": "http://152.26.229.42:9443"
   }
 ]
