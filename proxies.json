@@ -58,5 +58,17 @@
     "city": "Paris",
     "isp": "Online S.A.S.",
     "proxy": "http://51.158.173.222:3128"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.83:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.94:9443"
   }
 ]
