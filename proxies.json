@@ -58,5 +58,23 @@
     "city": "Concord",
     "isp": "MCNC",
     "proxy": "http://152.26.229.93:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Jacksonville",
+    "isp": "Network Solutions, LLC",
+    "proxy": "http://50.6.193.80:3128"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.83:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.77:9443"
   }
 ]
