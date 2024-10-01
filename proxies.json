@@ -4,5 +4,47 @@
     "city": "Concord",
     "isp": "MCNC",
     "proxy": "http://152.26.231.93:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.86:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.46:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.86:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.93:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Secaucus",
+    "isp": "Interserver, Inc",
+    "proxy": "http://162.216.113.93:9999"
+  },
+  {
+    "country": "United States",
+    "city": "Ashburn",
+    "isp": "Secured Servers LLC",
+    "proxy": "http://198.24.188.138:37000"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.34:9443"
   }
 ]
