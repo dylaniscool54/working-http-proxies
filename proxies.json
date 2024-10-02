@@ -40,5 +40,35 @@
     "city": "Concord",
     "isp": "MCNC",
     "proxy": "http://152.26.229.46:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Dallas",
+    "isp": "Packet Host, Inc.",
+    "proxy": "http://147.28.155.20:10010"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.93:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.86:9443"
+  },
+  {
+    "country": "The Netherlands",
+    "city": "Amsterdam",
+    "isp": "Packet Host, Inc.",
+    "proxy": "http://147.75.34.103:9400"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.77:9443"
   }
 ]
