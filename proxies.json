@@ -40,5 +40,17 @@
     "city": "Chicago",
     "isp": "Packet Host, Inc.",
     "proxy": "http://86.109.3.27:10089"
+  },
+  {
+    "country": "United States",
+    "city": "Chicago",
+    "isp": "Packet Host, Inc.",
+    "proxy": "http://86.109.3.27:10285"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.42:9443"
   }
 ]
