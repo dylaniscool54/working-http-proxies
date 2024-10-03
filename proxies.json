@@ -1,15 +1,9 @@
 [
   {
     "country": "United States",
-    "city": "Dallas",
-    "isp": "Packet Host, Inc.",
-    "proxy": "http://147.28.155.20:10011"
-  },
-  {
-    "country": "United States",
-    "city": "Dallas",
-    "isp": "Packet Host, Inc.",
-    "proxy": "http://147.28.155.20:10013"
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.93:9443"
   },
   {
     "country": "United States",
@@ -21,42 +15,6 @@
     "country": "United States",
     "city": "Concord",
     "isp": "MCNC",
-    "proxy": "http://152.26.231.93:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.229.47:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.231.94:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.229.93:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.231.42:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.229.34:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Dallas",
-    "isp": "Packet Host, Inc.",
-    "proxy": "http://147.28.155.20:10008"
+    "proxy": "http://152.26.229.77:9443"
   }
 ]
