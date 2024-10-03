@@ -1,39 +1,9 @@
 [
   {
-    "country": "Canada",
-    "city": "Montreal",
-    "isp": "GloboTech Communications",
-    "proxy": "http://72.10.160.91:19569"
-  },
-  {
-    "country": "Canada",
-    "city": "Montreal",
-    "isp": "GloboTech Communications",
-    "proxy": "http://72.10.164.178:10149"
-  },
-  {
     "country": "United States",
     "city": "Concord",
     "isp": "MCNC",
-    "proxy": "http://152.26.231.83:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.231.77:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.229.42:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.231.93:9443"
+    "proxy": "http://152.26.231.94:9443"
   },
   {
     "country": "United States",
@@ -45,19 +15,19 @@
     "country": "United States",
     "city": "Concord",
     "isp": "MCNC",
-    "proxy": "http://152.26.229.46:9443"
+    "proxy": "http://152.26.229.34:9443"
+  },
+  {
+    "country": "Canada",
+    "city": "Montreal",
+    "isp": "GloboTech Communications",
+    "proxy": "http://67.43.227.226:12793"
   },
   {
     "country": "United States",
     "city": "Concord",
     "isp": "MCNC",
-    "proxy": "http://152.26.231.94:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.229.47:9443"
+    "proxy": "http://152.26.231.77:9443"
   },
   {
     "country": "United States",
@@ -70,17 +40,5 @@
     "city": "Concord",
     "isp": "MCNC",
     "proxy": "http://152.26.229.86:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.229.77:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.229.34:9443"
   }
 ]
