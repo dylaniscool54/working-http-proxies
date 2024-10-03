@@ -3,13 +3,25 @@
     "country": "United States",
     "city": "Concord",
     "isp": "MCNC",
-    "proxy": "http://152.26.231.77:9443"
+    "proxy": "http://152.26.229.83:9443"
+  },
+  {
+    "country": "Canada",
+    "city": "Montreal",
+    "isp": "GloboTech Communications",
+    "proxy": "http://67.43.227.227:31817"
   },
   {
     "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.229.34:9443"
+    "city": "Jacksonville",
+    "isp": "Network Solutions, LLC",
+    "proxy": "http://50.6.193.80:3128"
+  },
+  {
+    "country": "Canada",
+    "city": "Montreal",
+    "isp": "GloboTech Communications",
+    "proxy": "http://67.43.227.227:4569"
   },
   {
     "country": "United States",
@@ -19,56 +31,8 @@
   },
   {
     "country": "United States",
-    "city": "Jacksonville",
-    "isp": "Network Solutions, LLC",
-    "proxy": "http://50.6.193.80:3128"
-  },
-  {
-    "country": "United States",
-    "city": "Parsippany",
-    "isp": "Packet Host, Inc.",
-    "proxy": "http://139.178.67.134:10068"
-  },
-  {
-    "country": "United States",
-    "city": "Parsippany",
-    "isp": "Packet Host, Inc.",
-    "proxy": "http://139.178.67.134:10003"
-  },
-  {
-    "country": "United States",
     "city": "Concord",
     "isp": "MCNC",
-    "proxy": "http://152.26.231.86:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.229.47:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.229.83:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.229.86:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.231.42:9443"
-  },
-  {
-    "country": "United States",
-    "city": "Concord",
-    "isp": "MCNC",
-    "proxy": "http://152.26.229.77:9443"
+    "proxy": "http://152.26.229.34:9443"
   }
 ]
