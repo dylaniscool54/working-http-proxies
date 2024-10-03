@@ -3,6 +3,36 @@
     "country": "United States",
     "city": "Concord",
     "isp": "MCNC",
+    "proxy": "http://152.26.229.34:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Ashburn",
+    "isp": "Secured Servers LLC",
+    "proxy": "http://198.24.188.138:37900"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.42:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.86:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.93:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
     "proxy": "http://152.26.231.83:9443"
   }
 ]
