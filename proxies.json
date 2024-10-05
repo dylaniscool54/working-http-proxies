@@ -28,5 +28,17 @@
     "city": "Dnipro",
     "isp": "Traditional LLC",
     "proxy": "http://91.243.194.0:3128"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.83:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.93:9443"
   }
 ]
