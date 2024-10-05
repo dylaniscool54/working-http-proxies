@@ -64,5 +64,17 @@
     "city": "Amsterdam",
     "isp": "Hostkey B.V.",
     "proxy": "http://31.207.47.56:8118"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.77:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.42:9443"
   }
 ]
