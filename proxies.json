@@ -28,5 +28,23 @@
     "city": "Concord",
     "isp": "MCNC",
     "proxy": "http://152.26.229.46:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.42:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.77:9443"
+  },
+  {
+    "country": "France",
+    "city": "Paris",
+    "isp": "SCALEWAY",
+    "proxy": "http://51.159.159.73:80"
   }
 ]
