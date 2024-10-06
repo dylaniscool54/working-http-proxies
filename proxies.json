@@ -22,5 +22,41 @@
     "city": "Concord",
     "isp": "MCNC",
     "proxy": "http://152.26.229.47:9443"
+  },
+  {
+    "country": "France",
+    "city": "Paris",
+    "isp": "SCALEWAY",
+    "proxy": "http://51.159.159.73:80"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.42:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.83:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.77:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.93:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.94:9443"
   }
 ]
