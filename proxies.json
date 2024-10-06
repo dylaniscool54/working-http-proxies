@@ -22,5 +22,23 @@
     "city": "Concord",
     "isp": "MCNC",
     "proxy": "http://152.26.231.77:9443"
+  },
+  {
+    "country": "Canada",
+    "city": "Montreal",
+    "isp": "GloboTech Communications",
+    "proxy": "http://72.10.164.178:7989"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.77:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.231.42:9443"
   }
 ]
