@@ -4,5 +4,17 @@
     "city": "Concord",
     "isp": "MCNC",
     "proxy": "http://152.26.229.83:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Concord",
+    "isp": "MCNC",
+    "proxy": "http://152.26.229.93:9443"
+  },
+  {
+    "country": "United States",
+    "city": "Ashburn",
+    "isp": "Secured Servers LLC",
+    "proxy": "http://198.24.188.138:36750"
   }
 ]
