@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "country": "The Netherlands",
+    "city": "Amsterdam",
+    "isp": "TimeWeb Ltd.",
+    "proxy": "http://109.71.240.93:8118"
+  }
+]
