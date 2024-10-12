@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "country": "The Netherlands",
+    "city": "Meppel",
+    "isp": "VDS/VPS SERVERIUS NL",
+    "proxy": "http://5.34.180.128:8118"
+  }
+]
