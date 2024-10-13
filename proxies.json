@@ -10,5 +10,11 @@
     "city": "Montreal",
     "isp": "GloboTech Communications",
     "proxy": "http://72.10.164.178:10075"
+  },
+  {
+    "country": "United States",
+    "city": "Ashburn",
+    "isp": "Secured Servers LLC",
+    "proxy": "http://198.24.188.138:37100"
   }
 ]
