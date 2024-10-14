@@ -10,5 +10,11 @@
     "city": "Los Angeles",
     "isp": "IT7 Networks Inc",
     "proxy": "http://144.34.174.203:3128"
+  },
+  {
+    "country": "Canada",
+    "city": "Toronto",
+    "isp": "Ipxo LLC",
+    "proxy": "http://209.200.246.243:9595"
   }
 ]
