@@ -1,14 +1,1 @@
-[
-  {
-    "country": "United States",
-    "city": "Dallas",
-    "isp": "Lambda",
-    "proxy": "http://104.171.202.57:3128"
-  },
-  {
-    "country": "Panama",
-    "city": "Panama City",
-    "isp": "Servicios de Tecnologías de Información de Misión Crítica, S.A.",
-    "proxy": "http://186.159.116.22:3128"
-  }
-]
+[]
