@@ -1,14 +1,1 @@
-[
-  {
-    "country": "United States",
-    "city": "Los Angeles",
-    "isp": "Multacom Corporation",
-    "proxy": "http://142.171.90.93:3128"
-  },
-  {
-    "country": "Canada",
-    "city": "Montreal",
-    "isp": "GloboTech Communications",
-    "proxy": "http://72.10.160.171:13449"
-  }
-]
+[]
