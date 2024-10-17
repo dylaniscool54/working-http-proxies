@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "country": "The Netherlands",
+    "city": "Amsterdam",
+    "isp": "Hostkey B.V.",
+    "proxy": "http://185.233.184.39:3128"
+  }
+]
