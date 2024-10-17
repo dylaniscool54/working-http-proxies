@@ -4,5 +4,11 @@
     "city": "Dallas",
     "isp": "Packet Host, Inc.",
     "proxy": "http://147.28.155.20:10008"
+  },
+  {
+    "country": "United States",
+    "city": "Phoenix",
+    "isp": "Dynu Systems Incorporated",
+    "proxy": "http://172.81.62.223:92"
   }
 ]
