@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "country": "United States",
+    "city": "Chicago",
+    "isp": "Packet Host, Inc.",
+    "proxy": "http://86.109.3.20:10089"
+  },
+  {
+    "country": "United States",
+    "city": "Phoenix",
+    "isp": "Dynu Systems Incorporated",
+    "proxy": "http://172.81.62.223:92"
+  }
+]
