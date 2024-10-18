@@ -3,12 +3,6 @@
     "country": "Canada",
     "city": "Montreal",
     "isp": "GloboTech Communications",
-    "proxy": "http://72.10.164.178:21435"
-  },
-  {
-    "country": "United States",
-    "city": "Chicago",
-    "isp": "Packet Host, Inc.",
-    "proxy": "http://86.109.3.28:10046"
+    "proxy": "http://67.43.227.226:1825"
   }
 ]
