@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "country": "Switzerland",
+    "city": "Dietikon",
+    "isp": "FSIT AG - Hosted Services",
+    "proxy": "http://185.32.124.132:35408"
+  }
+]
