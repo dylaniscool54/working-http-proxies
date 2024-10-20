@@ -3,12 +3,6 @@
     "country": "Canada",
     "city": "Montreal",
     "isp": "GloboTech Communications",
-    "proxy": "http://72.10.160.172:26847"
-  },
-  {
-    "country": "Canada",
-    "city": "Montreal",
-    "isp": "GloboTech Communications",
-    "proxy": "http://72.10.164.178:5061"
+    "proxy": "http://72.10.164.178:15309"
   }
 ]
