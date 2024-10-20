@@ -1,14 +1,14 @@
 [
   {
-    "country": "Spain",
-    "city": "León",
-    "isp": "Telefonica de Espana SAU",
-    "proxy": "http://83.54.13.108:3128"
+    "country": "Canada",
+    "city": "Montreal",
+    "isp": "GloboTech Communications",
+    "proxy": "http://72.10.160.173:8891"
   },
   {
     "country": "Canada",
     "city": "Montreal",
     "isp": "GloboTech Communications",
-    "proxy": "http://67.43.228.253:8859"
+    "proxy": "http://72.10.160.94:19937"
   }
 ]
