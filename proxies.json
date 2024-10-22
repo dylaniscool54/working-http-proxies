@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "country": "France",
+    "city": "Paris",
+    "isp": "Proxad / Free SAS",
+    "proxy": "http://82.65.27.56:80"
+  }
+]
