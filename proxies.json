@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "country": "United States",
+    "city": "Council Bluffs",
+    "isp": "Google LLC",
+    "proxy": "http://34.123.78.185:3128"
+  }
+]
