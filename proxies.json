@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "IONOS SE",
+    "proxy": "http://77.68.2.139:443"
+  }
+]
