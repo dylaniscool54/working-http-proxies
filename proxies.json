@@ -1,14 +1,1 @@
-[
-  {
-    "country": "Canada",
-    "city": "Montreal",
-    "isp": "GloboTech Communications",
-    "proxy": "http://72.10.164.178:20241"
-  },
-  {
-    "country": "France",
-    "city": "Paris",
-    "isp": "Online S.A.S.",
-    "proxy": "http://51.158.173.222:3128"
-  }
-]
+[]
