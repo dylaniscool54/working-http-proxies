@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "country": "Germany",
+    "city": "Frankfurt am Main",
+    "isp": "Zscaler Switzerland GmbH",
+    "proxy": "http://165.225.72.38:11143"
+  }
+]
